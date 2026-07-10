@@ -1,0 +1,239 @@
+
+:root {
+  --color-principal: #7a1f3d;
+  --color-principal-fosc: #5a1630;
+  --color-fons: #f7f4f5;
+  --color-targeta: #ffffff;
+  --color-text: #262223;
+  --color-text-suau: #6b6367;
+  --color-vora: #e3dbde;
+  --radi: 10px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: var(--color-fons);
+  color: var(--color-text);
+}
+
+.capcalera {
+  background: linear-gradient(135deg, var(--color-principal), var(--color-principal-fosc));
+  color: white;
+  padding: 28px 20px;
+}
+
+.capcalera-contingut {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.capcalera h1 {
+  margin: 0 0 4px 0;
+  font-size: 1.6rem;
+}
+
+.capcalera p {
+  margin: 0;
+  opacity: 0.9;
+  font-size: 0.95rem;
+}
+
+.contenidor {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.panell-filtres {
+  background: var(--color-targeta);
+  border: 1px solid var(--color-vora);
+  border-radius: var(--radi);
+  padding: 16px;
+  margin-bottom: 20px;
+  position: sticky;
+  top: 10px;
+  z-index: 5;
+}
+
+#cercaInput {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border: 1px solid var(--color-vora);
+  border-radius: var(--radi);
+  margin-bottom: 10px;
+}
+
+#cercaInput:focus {
+  outline: 2px solid var(--color-principal);
+}
+
+.filtres-select {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.filtres-select select {
+  flex: 1 1 200px;
+  padding: 8px 10px;
+  border: 1px solid var(--color-vora);
+  border-radius: var(--radi);
+  font-size: 0.95rem;
+  background: white;
+}
+
+#netejaFiltres {
+  padding: 8px 14px;
+  border: 1px solid var(--color-principal);
+  background: white;
+  color: var(--color-principal);
+  border-radius: var(--radi);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+#netejaFiltres:hover {
+  background: var(--color-principal);
+  color: white;
+}
+
+.comptador {
+  margin: 10px 0 0 0;
+  font-size: 0.85rem;
+  color: var(--color-text-suau);
+}
+
+.llista-cicles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 16px;
+}
+
+.targeta-cicle {
+  background: var(--color-targeta);
+  border: 1px solid var(--color-vora);
+  border-radius: var(--radi);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.targeta-capcalera {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.targeta-nom {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin: 0;
+  color: var(--color-principal-fosc);
+}
+
+.etiqueta-nivell {
+  background: var(--color-principal);
+  color: white;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 3px 8px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.targeta-meta {
+  font-size: 0.82rem;
+  color: var(--color-text-suau);
+}
+
+.targeta-familia {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--color-principal);
+}
+
+.targeta-seccio-titol {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--color-text-suau);
+  margin: 6px 0 2px 0;
+}
+
+.llista-perfils {
+  margin: 0;
+  padding-left: 18px;
+  font-size: 0.88rem;
+  line-height: 1.4;
+}
+
+.llista-perfils li {
+  margin-bottom: 3px;
+}
+
+.targeta-centres {
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+.targeta-peu {
+  margin-top: 8px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.enllac-pla {
+  font-size: 0.85rem;
+  color: var(--color-principal);
+  text-decoration: none;
+  font-weight: 600;
+  border: 1px solid var(--color-principal);
+  padding: 5px 10px;
+  border-radius: var(--radi);
+}
+
+.enllac-pla:hover {
+  background: var(--color-principal);
+  color: white;
+}
+
+.pla-sense-enllac {
+  font-size: 0.85rem;
+  color: var(--color-text-suau);
+  font-style: italic;
+}
+
+.cap-resultat {
+  text-align: center;
+  color: var(--color-text-suau);
+  padding: 40px 0;
+}
+
+.peu {
+  text-align: center;
+  padding: 24px 16px 40px;
+  font-size: 0.82rem;
+  color: var(--color-text-suau);
+}
+
+mark {
+  background: #ffe58a;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+
+@media (max-width: 600px) {
+  .filtres-select {
+    flex-direction: column;
+  }
+  .filtres-select select,
+  #netejaFiltres {
+    flex: 1 1 auto;
+  }
+}

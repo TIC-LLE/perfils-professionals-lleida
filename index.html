@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Perfils professionals de Formació Professional</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="capcalera">
+  <div class="capcalera-contingut">
+    <h1 id="titol-pagina">Perfils professionals de Formació Professional</h1>
+    <p id="subtitol-pagina">Serveis Territorials a Lleida</p>
+  </div>
+</header>
+
+<main class="contenidor">
+
+  <section class="panell-filtres">
+    <input type="text" id="cercaInput" placeholder="Cerca per nom, codi, perfil o centre..." autocomplete="off">
+
+    <div class="filtres-select">
+      <select id="filtreFamilia">
+        <option value="">Totes les famílies</option>
+      </select>
+
+      <select id="filtreNivell">
+        <option value="">Tots els nivells</option>
+      </select>
+
+      <button id="netejaFiltres" type="button">Neteja filtres</button>
+    </div>
+
+    <p id="comptadorResultats" class="comptador"></p>
+  </section>
+
+  <section id="llistaCicles" class="llista-cicles"></section>
+
+  <p id="capResultat" class="cap-resultat" hidden>No s'ha trobat cap cicle amb aquests criteris.</p>
+
+</main>
+
+<footer class="peu">
+  <p id="peuInfo"></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
