@@ -26,7 +26,7 @@ body {
 }
 
 .capcalera-contingut {
-  max-width: 1100px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 .contenidor {
-  max-width: 1100px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
 }
@@ -78,7 +78,7 @@ body {
 }
 
 .filtres-select select {
-  flex: 1 1 200px;
+  flex: 1 1 180px;
   padding: 8px 10px;
   border: 1px solid var(--color-vora);
   border-radius: var(--radi);
@@ -94,6 +94,7 @@ body {
   border-radius: var(--radi);
   cursor: pointer;
   font-size: 0.9rem;
+  white-space: nowrap;
 }
 
 #netejaFiltres:hover {
@@ -109,7 +110,7 @@ body {
 
 .llista-cicles {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
   gap: 16px;
 }
 
@@ -158,6 +159,17 @@ body {
   color: var(--color-principal);
 }
 
+.targeta-sector {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--color-principal-fosc);
+  background: #f1e4e9;
+  padding: 2px 8px;
+  border-radius: 999px;
+  width: fit-content;
+}
+
 .targeta-seccio-titol {
   font-size: 0.78rem;
   font-weight: 700;
@@ -177,9 +189,21 @@ body {
   margin-bottom: 3px;
 }
 
-.targeta-centres {
+.bloc-centres {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.grup-centres {
   font-size: 0.85rem;
   line-height: 1.4;
+}
+
+.etiqueta-tipus-centre {
+  font-weight: 600;
+  color: var(--color-principal-fosc);
+  margin-right: 4px;
 }
 
 .targeta-peu {
@@ -228,7 +252,7 @@ mark {
   border-radius: 2px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .filtres-select {
     flex-direction: column;
   }

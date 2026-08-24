@@ -5,6 +5,7 @@ let dadesGlobals = null;
 
 const elCerca = document.getElementById("cercaInput");
 const elFamilia = document.getElementById("filtreFamilia");
+const elSector = document.getElementById("filtreSector");
 const elNivell = document.getElementById("filtreNivell");
 const elNeteja = document.getElementById("netejaFiltres");
 const elLlista = document.getElementById("llistaCicles");
@@ -13,6 +14,13 @@ const elComptador = document.getElementById("comptadorResultats");
 const elPeuInfo = document.getElementById("peuInfo");
 const elSubtitol = document.getElementById("subtitol-pagina");
 const elTitol = document.getElementById("titol-pagina");
+
+const ETIQUETES_CENTRES = {
+  publics: "Centres públics",
+  publicsAltres: "Centres públics (altres departaments)",
+  concertats: "Centres concertats",
+  privats: "Centres privats"
+};
 
 fetch(RUTA_JSON)
   .then(function (resposta) {
@@ -49,16 +57,19 @@ function inicialitza(dades) {
   }
 
   omplirSelect(elFamilia, dades.families || []);
+  omplirSelect(elSector, (dades.sectors || []).filter(Boolean));
   omplirSelect(elNivell, dades.nivells || []);
 
   renderitza(dades.cicles || []);
 
   elCerca.addEventListener("input", aplicaFiltres);
   elFamilia.addEventListener("change", aplicaFiltres);
+  elSector.addEventListener("change", aplicaFiltres);
   elNivell.addEventListener("change", aplicaFiltres);
   elNeteja.addEventListener("click", function () {
     elCerca.value = "";
     elFamilia.value = "";
+    elSector.value = "";
     elNivell.value = "";
     aplicaFiltres();
   });
@@ -86,15 +97,17 @@ function aplicaFiltres() {
 
   const termeCerca = normalitza(elCerca.value.trim());
   const familiaSel = elFamilia.value;
+  const sectorSel = elSector.value;
   const nivellSel = elNivell.value;
 
   const filtrats = (dadesGlobals.cicles || []).filter(function (cicle) {
     const coincideixFamilia = !familiaSel || cicle.familia === familiaSel;
+    const coincideixSector = !sectorSel || cicle.sector === sectorSel;
     const coincideixNivell = !nivellSel || cicle.nivell === nivellSel;
     const coincideixCerca =
       !termeCerca || normalitza(cicle.cerca || "").includes(termeCerca);
 
-    return coincideixFamilia && coincideixNivell && coincideixCerca;
+    return coincideixFamilia && coincideixSector && coincideixNivell && coincideixCerca;
   });
 
   renderitza(filtrats, termeCerca);
@@ -150,6 +163,14 @@ function creaTargeta(cicle, termeCerca) {
 
   targeta.appendChild(capcalera);
   targeta.appendChild(familia);
+
+  if (cicle.sector) {
+    const sector = document.createElement("span");
+    sector.className = "targeta-sector";
+    sector.textContent = cicle.sector;
+    targeta.appendChild(sector);
+  }
+
   targeta.appendChild(meta);
 
   if (cicle.perfils && cicle.perfils.length > 0) {
@@ -170,42 +191,72 @@ function creaTargeta(cicle, termeCerca) {
     targeta.appendChild(llista);
   }
 
-  if (cicle.centresText) {
+  const blocCentres = creaBlocCentres(cicle.centres, termeCerca);
+  if (blocCentres) {
     const titolCentres = document.createElement("p");
     titolCentres.className = "targeta-seccio-titol";
     titolCentres.textContent = "Centres";
 
-    const centres = document.createElement("p");
-    centres.className = "targeta-centres";
-    centres.innerHTML = ressalta(cicle.centresText, termeCerca);
-
     targeta.appendChild(titolCentres);
-    targeta.appendChild(centres);
+    targeta.appendChild(blocCentres);
   }
 
   const peu = document.createElement("div");
   peu.className = "targeta-peu";
 
-  if (cicle.plaActivitats && cicle.plaActivitats.url) {
+  if (cicle.planUrl) {
     const enllac = document.createElement("a");
     enllac.className = "enllac-pla";
-    enllac.href = cicle.plaActivitats.url;
+    enllac.href = cicle.planUrl;
     enllac.target = "_blank";
     enllac.rel = "noopener noreferrer";
-    enllac.textContent = cicle.plaActivitats.text || "Pla d'activitats";
+    enllac.textContent = "Pla d'activitats";
     peu.appendChild(enllac);
   } else {
     const sensePla = document.createElement("span");
     sensePla.className = "pla-sense-enllac";
-    sensePla.textContent =
-      (cicle.plaActivitats && cicle.plaActivitats.text) ||
-      "Pla d'activitats (sense enllaç)";
+    sensePla.textContent = "Pla d'activitats (sense enllaç)";
     peu.appendChild(sensePla);
   }
 
   targeta.appendChild(peu);
 
   return targeta;
+}
+
+function creaBlocCentres(centres, termeCerca) {
+  if (!centres) return null;
+
+  const ordre = ["publics", "publicsAltres", "concertats", "privats"];
+  const grups = ordre.filter(function (clau) {
+    return Array.isArray(centres[clau]) && centres[clau].length > 0;
+  });
+
+  if (grups.length === 0) return null;
+
+  const contenidor = document.createElement("div");
+  contenidor.className = "bloc-centres";
+
+  grups.forEach(function (clau) {
+    const linia = document.createElement("p");
+    linia.className = "grup-centres";
+
+    const etiqueta = document.createElement("span");
+    etiqueta.className = "etiqueta-tipus-centre";
+    etiqueta.textContent = (ETIQUETES_CENTRES[clau] || clau) + ":";
+
+    linia.appendChild(etiqueta);
+    linia.appendChild(document.createTextNode(" "));
+
+    const textCentres = centres[clau].join("; ");
+    const span = document.createElement("span");
+    span.innerHTML = ressalta(textCentres, termeCerca);
+    linia.appendChild(span);
+
+    contenidor.appendChild(linia);
+  });
+
+  return contenidor;
 }
 
 function ressalta(text, terme) {
