@@ -8,9 +8,46 @@
     "totalCicles": 95,
     "totalFamilies": 23
   },
-  "families": ["ACTIVITAS FISIQUES I ESPORTIVES", "ADMINISTRACIÓ I GESTIÓ", "AGRÀRIA", "ARTS GRÀFIQUES", "COMERÇ I MÀRQUETING", "EDIFICACIÓ I OBRA CIVIL", "ELECTRICITAT I ELECTRÒNICA", "ENERGIA I AIGUA", "FABRICACIO MECANICA", "FUSTA, MOBLE I SURO", "HOTELERIA I TURISME", "IMATGE I SO", "IMATGE PERSONAL", "INDUSTRIES ALIMENTÀRIES", "INDUSTRIES EXTRACTIVES", "INFORMATICA I COMUNICACIONS", "INSTAL·LACIÓ I MANTENIMENT", "QUIMICA", "SANITAT", "SEGURETAT I MEDI AMBIENT", "SERVEIS SOCIOCULTURALS I A LA COMUNITAT", "TEXTIL CONFECCIO I PELL", "TRANSPORT I MANTENIMENT DE VEHICLES"],
-  "sectors": ["Agroalimentari", "Construcció", "Energia i sostenibilitat", "Manufacturer", "Metall i mobilitat", "Oci i benestar", "Salut i atenció a les persones", "Serveis a empreses", "Transformació digital"],
-  "nivells": ["CFPM", "CFPS"],
+  "families": [
+    "ACTIVITAS FISIQUES I ESPORTIVES",
+    "ADMINISTRACIÓ I GESTIÓ",
+    "AGRÀRIA",
+    "ARTS GRÀFIQUES",
+    "COMERÇ I MÀRQUETING",
+    "EDIFICACIÓ I OBRA CIVIL",
+    "ELECTRICITAT I ELECTRÒNICA",
+    "ENERGIA I AIGUA",
+    "FABRICACIO MECANICA",
+    "FUSTA, MOBLE I SURO",
+    "HOTELERIA I TURISME",
+    "IMATGE I SO",
+    "IMATGE PERSONAL",
+    "INDUSTRIES ALIMENTÀRIES",
+    "INDUSTRIES EXTRACTIVES",
+    "INFORMATICA I COMUNICACIONS",
+    "INSTAL·LACIÓ I MANTENIMENT",
+    "QUIMICA",
+    "SANITAT",
+    "SEGURETAT I MEDI AMBIENT",
+    "SERVEIS SOCIOCULTURALS I A LA COMUNITAT",
+    "TEXTIL CONFECCIO I PELL",
+    "TRANSPORT I MANTENIMENT DE VEHICLES"
+  ],
+  "sectors": [
+    "Agroalimentari",
+    "Construcció",
+    "Energia i sostenibilitat",
+    "Manufacturer",
+    "Metall i mobilitat",
+    "Oci i benestar",
+    "Salut i atenció a les persones",
+    "Serveis a empreses",
+    "Transformació digital"
+  ],
+  "nivells": [
+    "CFPM",
+    "CFPS"
+  ],
   "cicles": [
     {
       "id": "aeb0",
@@ -19,11 +56,24 @@
       "nivell": "CFPS",
       "codi": "AEB0",
       "nom": "Condicionament físic",
-      "perfils": ["Entrenador de condicionament físic a les sales d'entrenament polivalent de gimnasos o poliesportius i en instal·lacions aquàtiques", "Entrenador de condicionament físic per a grups amb suport musical en gimnasos, instal·lacions aquàtiques o poliesportius", "Entrenador personal", "Instructor de grups d’hidrocinèsia i cura corporal", "Promotor d'activitats de condicionament físic", "Animador d'activitats de condicionament físic coordinador o coordinadora d'activitats de condicionament físic i d’hidrocinèsia", "Monitor d'aeròbic, graons, ciclisme de sala, fitnes aquàtic i activitats afins", "Instructor d’activitats de condicionament físic per a col·lectius especials"],
+      "perfils": [
+        "Entrenador de condicionament físic a les sales d'entrenament polivalent de gimnasos o poliesportius i en instal·lacions aquàtiques",
+        "Entrenador de condicionament físic per a grups amb suport musical en gimnasos, instal·lacions aquàtiques o poliesportius",
+        "Entrenador personal",
+        "Instructor de grups d’hidrocinèsia i cura corporal",
+        "Promotor d'activitats de condicionament físic",
+        "Animador d'activitats de condicionament físic coordinador o coordinadora d'activitats de condicionament físic i d’hidrocinèsia",
+        "Monitor d'aeròbic, graons, ciclisme de sala, fitnes aquàtic i activitats afins",
+        "Instructor d’activitats de condicionament físic per a col·lectius especials"
+      ],
       "centres": {
-        "publics": ["Institut Joan Oró (25002787) Lleida"],
+        "publics": [
+          "Institut Joan Oró (25002787) Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["Col·legi Episcopal (25002647)-Lleida"],
+        "concertats": [
+          "Col·legi Episcopal (25002647)-Lleida"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1mxXcrw0VFG4Gb2f5Fg3e6cmwlI8IhI-4/view?usp=drive_link",
@@ -36,11 +86,25 @@
       "nivell": "CFPS",
       "codi": "AEA0",
       "nom": "Ensenyament i animació socioesportiva",
-      "perfils": ["Animador fisicoesportiu i recreatiu", "Animadora d'activitats d'inclusió socioesportiva", "Animador de vetllades i espectacles en instal·lacions turístiques", "Animadora d'activitats recreatives a l'aire lliure en instal·lacions turístiques", "Coordinadora d'activitats d'animació esportiva", "Coordinadora d'activitats fisicoesportives en instal·lacions esportives d’empreses turístiques o entitats públiques i privades", "Coordinadora de temps lliure educatiu infantil i juvenil", "Coordinadora de campaments, albergs de joventut, cases de colònies, granges escola, aules de cases de joventut i escoles de natura", "Coordinadora d'activitats paracurriculars en el marc escolar"],
+      "perfils": [
+        "Animador fisicoesportiu i recreatiu",
+        "Animadora d'activitats d'inclusió socioesportiva",
+        "Animador de vetllades i espectacles en instal·lacions turístiques",
+        "Animadora d'activitats recreatives a l'aire lliure en instal·lacions turístiques",
+        "Coordinadora d'activitats d'animació esportiva",
+        "Coordinadora d'activitats fisicoesportives en instal·lacions esportives d’empreses turístiques o entitats públiques i privades",
+        "Coordinadora de temps lliure educatiu infantil i juvenil",
+        "Coordinadora de campaments, albergs de joventut, cases de colònies, granges escola, aules de cases de joventut i escoles de natura",
+        "Coordinadora d'activitats paracurriculars en el marc escolar"
+      ],
       "centres": {
-        "publics": ["Institut Joan Oró (25002787) Lleida"],
+        "publics": [
+          "Institut Joan Oró (25002787) Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["Col·legi Episcopal (25002647)-Lleida"],
+        "concertats": [
+          "Col·legi Episcopal (25002647)-Lleida"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1scI1M96MROlMNyc34fpCIKMlZ1BVNkvP/view?usp=drive_link",
@@ -53,11 +117,40 @@
       "nivell": "CFPM",
       "codi": "AE10",
       "nom": "Guia en el medi natural",
-      "perfils": ["Dissenyador d'itineraris eqüestres fins a muntanya mitjana", "Dissenyador d'itineraris amb bicicleta per terrenys de fins a muntanya mitjana", "Dissenyador d'itineraris pel mitjà aquàtic en embarcacions d'esbarjo exemptes de despatx", "Dissenyador i organitzador d'activitats fisicoesportives recreatives guiades pel medi natural", "Encarregat de prevenció i seguretat en rutes i esdeveniments amb bicicleta", "Encarregat de prevenció i seguretat en rutes i esdeveniments eqüestres", "Guia en activitats de senderisme, muntanyisme per muntanya baixa i mitjana, travessia per muntanya baixa i mitjana, i rutes nevades tipus nòrdic amb raquetes", "Guia de barrancs de dificultat baixa", "Guia d'espeleologia de dificultat baixa", "Guia d'itineraris amb bicicleta de muntanya", "Guia d'itineraris de cicloturisme", "Guia d'itineraris a cavall", "Guia d'itineraris pel mitjà aquàtic en embarcacions d'esbarjo exemptes de despatx", "Monitor de temps lliure educatiu infantil i juvenil", "Monitor de campaments, d'albergs de joventut, de cases de colònies, de granges escoles, i d'aules i escoles de natura", "Monitor d'activitats en el marc escolar", "Monitor o monitora d'instal·lacions d'oci i aventura", "Socorrista en llacs i embassaments", "Socorrista de suport en unitats d'intervenció aquàtica", "Socorrista en activitats aquàtiques en l'entorn natural", "Socorrista en activitats nàutiques i esportives", "Socorrista en platges fluvials"],
+      "perfils": [
+        "Dissenyador d'itineraris eqüestres fins a muntanya mitjana",
+        "Dissenyador d'itineraris amb bicicleta per terrenys de fins a muntanya mitjana",
+        "Dissenyador d'itineraris pel mitjà aquàtic en embarcacions d'esbarjo exemptes de despatx",
+        "Dissenyador i organitzador d'activitats fisicoesportives recreatives guiades pel medi natural",
+        "Encarregat de prevenció i seguretat en rutes i esdeveniments amb bicicleta",
+        "Encarregat de prevenció i seguretat en rutes i esdeveniments eqüestres",
+        "Guia en activitats de senderisme, muntanyisme per muntanya baixa i mitjana, travessia per muntanya baixa i mitjana, i rutes nevades tipus nòrdic amb raquetes",
+        "Guia de barrancs de dificultat baixa",
+        "Guia d'espeleologia de dificultat baixa",
+        "Guia d'itineraris amb bicicleta de muntanya",
+        "Guia d'itineraris de cicloturisme",
+        "Guia d'itineraris a cavall",
+        "Guia d'itineraris pel mitjà aquàtic en embarcacions d'esbarjo exemptes de despatx",
+        "Monitor de temps lliure educatiu infantil i juvenil",
+        "Monitor de campaments, d'albergs de joventut, de cases de colònies, de granges escoles, i d'aules i escoles de natura",
+        "Monitor d'activitats en el marc escolar",
+        "Monitor o monitora d'instal·lacions d'oci i aventura",
+        "Socorrista en llacs i embassaments",
+        "Socorrista de suport en unitats d'intervenció aquàtica",
+        "Socorrista en activitats aquàtiques en l'entorn natural",
+        "Socorrista en activitats nàutiques i esportives",
+        "Socorrista en platges fluvials"
+      ],
       "centres": {
-        "publics": ["Institut Joan Oró (25002787) Lleida", "Institut Almatà (25005727)-Balaguer", "Institut Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "Institut Joan Oró (25002787) Lleida",
+          "Institut Almatà (25005727)-Balaguer",
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
-        "concertats": ["Col·legi Episcopal (25002647)-Lleida"],
+        "concertats": [
+          "Col·legi Episcopal (25002647)-Lleida"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1iI9Uit2QSLRt0rc8HhApJypm2qN4mxni/view",
@@ -70,12 +163,32 @@
       "nivell": "CFPS",
       "codi": "AGB0",
       "nom": "Administració i finances",
-      "perfils": ["Administratiu d'oficina", "Administratiu comercial", "Administratiu de logística", "Administratiu de banca i assegurances", "Administratiu de recursos humans", "Administratiu de l'AP", "Administratiu d'assessories jurídiques, comptables, laborals, fiscals o gestories", "Tècnic en gestió de cobraments", "Responsable d'atenció al client"],
+      "perfils": [
+        "Administratiu d'oficina",
+        "Administratiu comercial",
+        "Administratiu de logística",
+        "Administratiu de banca i assegurances",
+        "Administratiu de recursos humans",
+        "Administratiu de l'AP",
+        "Administratiu d'assessories jurídiques, comptables, laborals, fiscals o gestories",
+        "Tècnic en gestió de cobraments",
+        "Responsable d'atenció al client"
+      ],
       "centres": {
-        "publics": ["Institut Almatà (25005727)-Balaguer", "Institut Escola del Treball (25005442) M-T-Lleida", "Institut La Segarra (25005685)-Cervera", "Institut Alfons Costafreda (25006781)-Tarrega"],
+        "publics": [
+          "Institut Almatà (25005727)-Balaguer",
+          "Institut Escola del Treball (25005442) M-T-Lleida",
+          "Institut La Segarra (25005685)-Cervera",
+          "Institut Alfons Costafreda (25006781)-Tarrega"
+        ],
         "publicsAltres": [],
-        "concertats": ["Ilerna (25002775)-Lleida", "La Salle (25003184)-Mollerussa"],
-        "privats": ["Col·legi Episcopal (25002647) Lleida"]
+        "concertats": [
+          "Ilerna (25002775)-Lleida",
+          "La Salle (25003184)-Mollerussa"
+        ],
+        "privats": [
+          "Col·legi Episcopal (25002647) Lleida"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/16MOret7VkcMUWzvMu4EnYdhqOkjHLKI0/view?usp=drive_link",
       "cerca": "administracio i gestio serveis a empreses cfps agb0 administracio i finances administratiu d oficina administratiu comercial administratiu de logistica administratiu de banca i assegurances administratiu de recursos humans administratiu de l ap administratiu d assessories juridiques comptables laborals fiscals o gestories tecnic en gestio de cobraments responsable d atencio al client institut almata (25005727) balaguer institut escola del treball (25005442) m t lleida institut la segarra (25005685) cervera institut alfons costafreda (25006781) tarrega ilerna (25002775) lleida la salle (25003184) mollerussa col legi episcopal (25002647) lleida"
@@ -87,9 +200,19 @@
       "nivell": "CFPS",
       "codi": "AGA0",
       "nom": "Assistència a la direcció",
-      "perfils": ["Assistent a la direcció", "Assistent de personal", "Secretari de direcció", "Assistent de despatxos i oficines", "Assistent jurídic", "Assistent en departaments de recursos humans", "Administratiu en les administracions i organismes públics"],
+      "perfils": [
+        "Assistent a la direcció",
+        "Assistent de personal",
+        "Secretari de direcció",
+        "Assistent de despatxos i oficines",
+        "Assistent jurídic",
+        "Assistent en departaments de recursos humans",
+        "Administratiu en les administracions i organismes públics"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442) Lleida"],
+        "publics": [
+          "Institut Escola del Treball (25005442) Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -104,11 +227,37 @@
       "nivell": "CFPM",
       "codi": "AG10",
       "nom": "Gestió administrativa",
-      "perfils": ["Auxiliar administratiu", "Auxiliar administratiu", "Ajudant d'oficina", "Auxiliar administratiu de cobraments i pagaments", "Administratiu comercial", "Auxiliar administratiu de gestió de personal", "Auxiliar administratiu de les AP", "Recepcionista", "Empleat d'atenció al client", "Empleat de tresoreria", "Empleat de mitjans de pagament"],
+      "perfils": [
+        "Auxiliar administratiu",
+        "Auxiliar administratiu",
+        "Ajudant d'oficina",
+        "Auxiliar administratiu de cobraments i pagaments",
+        "Administratiu comercial",
+        "Auxiliar administratiu de gestió de personal",
+        "Auxiliar administratiu de les AP",
+        "Recepcionista",
+        "Empleat d'atenció al client",
+        "Empleat de tresoreria",
+        "Empleat de mitjans de pagament"
+      ],
       "centres": {
-        "publics": ["Institut Els Planells (25005429)-Artesa de Segre", "Institut Almatà (25005727)-Balaguer", "Institut Escola del Treball (25005442)", "M-T-Lleida", "Institut La Segarra (25005685)-Cervera", "Institut de Guissona (25007505)-Guissona", "Institut d'Almenar (25006227)-Almenar", "Institut Mollerussa (25003202)-Mollerussa", "Institut Alfons Costafreda (25006781)-Tarrega", "Institut Josep Vallverdú (25006525)"],
+        "publics": [
+          "Institut Els Planells (25005429)-Artesa de Segre",
+          "Institut Almatà (25005727)-Balaguer",
+          "Institut Escola del Treball (25005442)",
+          "M-T-Lleida",
+          "Institut La Segarra (25005685)-Cervera",
+          "Institut de Guissona (25007505)-Guissona",
+          "Institut d'Almenar (25006227)-Almenar",
+          "Institut Mollerussa (25003202)-Mollerussa",
+          "Institut Alfons Costafreda (25006781)-Tarrega",
+          "Institut Josep Vallverdú (25006525)"
+        ],
         "publicsAltres": [],
-        "concertats": ["Ilerna (25002775)-Lleida", "La Salle (25003184)-Mollerussa"],
+        "concertats": [
+          "Ilerna (25002775)-Lleida",
+          "La Salle (25003184)-Mollerussa"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1UCfsk0GhLblLppztRqxi4HpXnFfRs5Qu/view?usp=drive_link",
@@ -121,9 +270,26 @@
       "nivell": "CFPM",
       "codi": "AG11",
       "nom": "Gestió administrativa, àmbit jurídic",
-      "perfils": ["Auxiliar administratiu", "Auxiliar administrativa de gestió personal", "Auxiliar administrativa de cobraments i pagaments", "Auxiliar administratiu del sector jurídic privat", "Auxiliar judicial", "Ajudant d'oficina", "Administratiu comercial", "Recepcionista", "Empleat o empleada d'atenció al públic", "Empleat o empleada de tresoreria", "Empleat o empleada en mitjans de pagament", "Empleat o empleada d'atenció al públic", "Tramitador processal", "Administratiu"],
+      "perfils": [
+        "Auxiliar administratiu",
+        "Auxiliar administrativa de gestió personal",
+        "Auxiliar administrativa de cobraments i pagaments",
+        "Auxiliar administratiu del sector jurídic privat",
+        "Auxiliar judicial",
+        "Ajudant d'oficina",
+        "Administratiu comercial",
+        "Recepcionista",
+        "Empleat o empleada d'atenció al públic",
+        "Empleat o empleada de tresoreria",
+        "Empleat o empleada en mitjans de pagament",
+        "Empleat o empleada d'atenció al públic",
+        "Tramitador processal",
+        "Administratiu"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442) Lleida"],
+        "publics": [
+          "Institut Escola del Treball (25005442) Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -138,9 +304,23 @@
       "nivell": "CFPM",
       "codi": "AR60",
       "nom": "Activitats eqüestres",
-      "perfils": ["Treballador en la cria de cavalls,empleat o empleada per a la cura i el maneig d’èquids i les seves instal·lacions", "Empleat per a la doma de poltres en explotacions ramaderes equines", "Empleat per a la doma de poltres en centres d'ensinistrament i entrenament de bestiar equí", "Empleat per a la doma de poltres en centres de pupil·latge, descans i recuperació d’equins", "Empleat o empleada per a la doma de poltres en parades de sementals", "centres de selecció i tests i eguassades", "empleat en empreses de serveis relacionats amb el sector equí", "Monitor de campaments", "Guia d'itineraris a cavall, encarregat o encarregada de prevenció i seguretat en rutes i esdeveniments eqüestres", "Dissenyador o dissenyadora d'itineraris eqüestres fins a mitja muntanya", "Auxiliar ferrador de bestiar equí"],
+      "perfils": [
+        "Treballador en la cria de cavalls,empleat o empleada per a la cura i el maneig d’èquids i les seves instal·lacions",
+        "Empleat per a la doma de poltres en explotacions ramaderes equines",
+        "Empleat per a la doma de poltres en centres d'ensinistrament i entrenament de bestiar equí",
+        "Empleat per a la doma de poltres en centres de pupil·latge, descans i recuperació d’equins",
+        "Empleat o empleada per a la doma de poltres en parades de sementals",
+        "centres de selecció i tests i eguassades",
+        "empleat en empreses de serveis relacionats amb el sector equí",
+        "Monitor de campaments",
+        "Guia d'itineraris a cavall, encarregat o encarregada de prevenció i seguretat en rutes i esdeveniments eqüestres",
+        "Dissenyador o dissenyadora d'itineraris eqüestres fins a mitja muntanya",
+        "Auxiliar ferrador de bestiar equí"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -155,10 +335,21 @@
       "nivell": "CFPS",
       "codi": "ARA0",
       "nom": "Gestio Forestal i del Medi Natural",
-      "perfils": ["Agricultor", "Horticultor", "Fructicultor", "Criador de bestiar", "Avicultor", "Apicultor o apicultora", "Productor de llet i/o d'ous", "Operador de maquinària agrícola i ramadera"],
+      "perfils": [
+        "Agricultor",
+        "Horticultor",
+        "Fructicultor",
+        "Criador de bestiar",
+        "Avicultor",
+        "Apicultor o apicultora",
+        "Productor de llet i/o d'ous",
+        "Operador de maquinària agrícola i ramadera"
+      ],
       "centres": {
         "publics": [],
-        "publicsAltres": ["Institut Mollerussa (25003202)-Mollerussa"],
+        "publicsAltres": [
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "concertats": [],
         "privats": []
       },
@@ -172,9 +363,30 @@
       "nivell": "CFPM",
       "codi": "AR50",
       "nom": "Jardineria i floristeria",
-      "perfils": ["Treballador d'hortes, vivers i jardins", "Jardiner/a, en general", "Jardiner i cuidador de camps d'esport", "Treballador de parcs urbans i de jardins històrics i/o botànics", "Treballador qualificat/ada en la instal·lació de jardins i zones verdes", "Treballador qualificat/ada en manteniment i millora de jardins i zones verdes", "Treballador qualificat d’una empresa de jardineria per compte propi", "Planterista", "Treballador en vivers, en general", "Treballador qualificat/ada en propagació de plantes en vivers", "Treballador qualificat en cultiu de plantes en vivers", "Treballador especialista en recollida de llavors i fruits en alçada", "Treballador qualificat en producció de llavors", "Empeltador", "Treballador qualificat en vivers", "Florista per compte propi o aliè", "Oficial de floristeria", "Venedor de floristeria"],
+      "perfils": [
+        "Treballador d'hortes, vivers i jardins",
+        "Jardiner/a, en general",
+        "Jardiner i cuidador de camps d'esport",
+        "Treballador de parcs urbans i de jardins històrics i/o botànics",
+        "Treballador qualificat/ada en la instal·lació de jardins i zones verdes",
+        "Treballador qualificat/ada en manteniment i millora de jardins i zones verdes",
+        "Treballador qualificat d’una empresa de jardineria per compte propi",
+        "Planterista",
+        "Treballador en vivers, en general",
+        "Treballador qualificat/ada en propagació de plantes en vivers",
+        "Treballador qualificat en cultiu de plantes en vivers",
+        "Treballador especialista en recollida de llavors i fruits en alçada",
+        "Treballador qualificat en producció de llavors",
+        "Empeltador",
+        "Treballador qualificat en vivers",
+        "Florista per compte propi o aliè",
+        "Oficial de floristeria",
+        "Venedor de floristeria"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -189,10 +401,35 @@
       "nivell": "CFPS",
       "codi": "ARB1",
       "nom": "Paisatgisme i Medi Rural, perfil professional Gestió Agropecuària",
-      "perfils": ["Tècnic en jardineria", "dissenyador o dissenyadora de zones enjardinades que no requereixin la redacció d'un projecte", "Encarregat de la instal·lació de parcs, jardins i àrees recreatives urbanes i periurbanes", "Encarregat del manteniment, conservació i restauració de jardins i parcs(àrees recreatives urbanes i periurbanes i medi natural)", "Treballador per compte propi en empresa de jardineria i restauració del paisatge", "Encarregat d'obres de jardineria i restauració del paisatge", "Encarregat de podes i operacions de cirurgia arbòria", "encarregat o encarregada o capatàs agrícola", "Gestor de producció agrícola (convencional o ecològica)", "Responsable de magatzem grícola", "Responsable d'equips de tractaments terrestres", "Encarregat o capatàs agrícola d'horts, planters i jardins", "Encarregat de planters en general", "Convencionals o ecològics", "Encarregat de reproducció de plantes en viver", "Encarregat de cultiu de plantes en viver", "encarregat o encarregada de collita de llavors i fruits d'altura", "Encarregat de producció de llavors i pans d'herba", "Encarregatde magatzem d'expedicions de plantes, pans d'herba i/o llavors", "Encarregat d'una explotació agropecuària responsable de la producció en explotacions o empreses agropecuàries"],
+      "perfils": [
+        "Tècnic en jardineria",
+        "dissenyador o dissenyadora de zones enjardinades que no requereixin la redacció d'un projecte",
+        "Encarregat de la instal·lació de parcs, jardins i àrees recreatives urbanes i periurbanes",
+        "Encarregat del manteniment, conservació i restauració de jardins i parcs(àrees recreatives urbanes i periurbanes i medi natural)",
+        "Treballador per compte propi en empresa de jardineria i restauració del paisatge",
+        "Encarregat d'obres de jardineria i restauració del paisatge",
+        "Encarregat de podes i operacions de cirurgia arbòria",
+        "encarregat o encarregada o capatàs agrícola",
+        "Gestor de producció agrícola (convencional o ecològica)",
+        "Responsable de magatzem grícola",
+        "Responsable d'equips de tractaments terrestres",
+        "Encarregat o capatàs agrícola d'horts, planters i jardins",
+        "Encarregat de planters en general",
+        "Convencionals o ecològics",
+        "Encarregat de reproducció de plantes en viver",
+        "Encarregat de cultiu de plantes en viver",
+        "encarregat o encarregada de collita de llavors i fruits d'altura",
+        "Encarregat de producció de llavors i pans d'herba",
+        "Encarregatde magatzem d'expedicions de plantes, pans d'herba i/o llavors",
+        "Encarregat d'una explotació agropecuària responsable de la producció en explotacions o empreses agropecuàries"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Mollerussa"],
-        "publicsAltres": ["Escola Agrària d'Alfarràs (25008637)-Alfarràs"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
+        "publicsAltres": [
+          "Escola Agrària d'Alfarràs (25008637)-Alfarràs"
+        ],
         "concertats": [],
         "privats": []
       },
@@ -206,10 +443,17 @@
       "nivell": "CFPM",
       "codi": "AR21",
       "nom": "Producció agroecològica perfil professional de producció agrícola ecològica",
-      "perfils": ["Treballador qualificat a compte d´un altre en cultius i ramaderia ecològica", "Agricultora ecològica", "Criadora de bestiar ecològic", "Avicultor ecològic"],
+      "perfils": [
+        "Treballador qualificat a compte d´un altre en cultius i ramaderia ecològica",
+        "Agricultora ecològica",
+        "Criadora de bestiar ecològic",
+        "Avicultor ecològic"
+      ],
       "centres": {
         "publics": [],
-        "publicsAltres": ["Escola Agrària d'Alfarràs (25008637)-Alfarràs"],
+        "publicsAltres": [
+          "Escola Agrària d'Alfarràs (25008637)-Alfarràs"
+        ],
         "concertats": [],
         "privats": []
       },
@@ -223,10 +467,19 @@
       "nivell": "CFPM",
       "codi": "AR10",
       "nom": "Producció Agropecuària",
-      "perfils": ["Apicultor ecològic", "Productora de llet ecològica i/o d'ous ecològics", "Planterista ecològic", "Operador de maquinària agrícola i ramadera"],
+      "perfils": [
+        "Apicultor ecològic",
+        "Productora de llet ecològica i/o d'ous ecològics",
+        "Planterista ecològic",
+        "Operador de maquinària agrícola i ramadera"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Mollerussa"],
-        "publicsAltres": ["Escola Agrària de Tàrrega (25004504)-Tàrrega"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
+        "publicsAltres": [
+          "Escola Agrària de Tàrrega (25004504)-Tàrrega"
+        ],
         "concertats": [],
         "privats": []
       },
@@ -240,10 +493,23 @@
       "nivell": "CFPM",
       "codi": "AR11",
       "nom": "Producció agropecuària perfil professional de producció agrícola",
-      "perfils": ["Treballadora qualificada en cultius i ramaderia", "Agricultora", "Horticultora", "Fructicultora", "Floricultora", "Criadora de bestiar", "Avicultora", "Apicultora", "Productora de llet i/o d'ous", "Operadora de maquinària agrícola i ramadera"],
+      "perfils": [
+        "Treballadora qualificada en cultius i ramaderia",
+        "Agricultora",
+        "Horticultora",
+        "Fructicultora",
+        "Floricultora",
+        "Criadora de bestiar",
+        "Avicultora",
+        "Apicultora",
+        "Productora de llet i/o d'ous",
+        "Operadora de maquinària agrícola i ramadera"
+      ],
       "centres": {
         "publics": [],
-        "publicsAltres": ["Escola agrària de les Borges Blanques 25001175-Les Borges Blanques"],
+        "publicsAltres": [
+          "Escola agrària de les Borges Blanques 25001175-Les Borges Blanques"
+        ],
         "concertats": [],
         "privats": []
       },
@@ -257,10 +523,23 @@
       "nivell": "CFPM",
       "codi": "AR12",
       "nom": "Producció Agropecuària perfil professional de producció ramadera",
-      "perfils": ["Treballadora qualificada en cultius i ramaderia", "Agricultora", "Horticultora", "Fructicultora", "Criadora de bestiar", "Avicultora", "Apicultora", "Productora de llet i/o d'ous", "Operadora de maquinària", "agrícola i ramadera"],
+      "perfils": [
+        "Treballadora qualificada en cultius i ramaderia",
+        "Agricultora",
+        "Horticultora",
+        "Fructicultora",
+        "Criadora de bestiar",
+        "Avicultora",
+        "Apicultora",
+        "Productora de llet i/o d'ous",
+        "Operadora de maquinària",
+        "agrícola i ramadera"
+      ],
       "centres": {
         "publics": [],
-        "publicsAltres": ["Escola Agrària de Vallfogona de Balaguer(25000845)-Vallfogona de Balaguer"],
+        "publicsAltres": [
+          "Escola Agrària de Vallfogona de Balaguer(25000845)-Vallfogona de Balaguer"
+        ],
         "concertats": [],
         "privats": []
       },
@@ -274,10 +553,22 @@
       "nivell": "CFPS",
       "codi": "ARC0",
       "nom": "Ramaderia i Assistència en sanitat animal",
-      "perfils": ["Responsable de la producció en cooperatives, en societats agràries de transformació o d'altres associacions de ramaders", "Responsable de la producció en explotacions o empreses ramaderes", "Responsable en empreses de serveis relacionats amb la producció ramadera", "Responsable d'inseminació artificial en explotacions ramaderes o en centres de recollida de semen", "Encarregat o encarregada de màquines i equips ramaders", "Responsable i gestor o gestora de ramaderies equines", "Assessor i supervisor o supervisora per a la planificació, muntatge i funcionament d'empreses i entitatsassociades a esdeveniments, espectacles, demostracions eqüestres, activitats recreatives, esportives i terapèutiques (hipoteràpia)"],
+      "perfils": [
+        "Responsable de la producció en cooperatives, en societats agràries de transformació o d'altres associacions de ramaders",
+        "Responsable de la producció en explotacions o empreses ramaderes",
+        "Responsable en empreses de serveis relacionats amb la producció ramadera",
+        "Responsable d'inseminació artificial en explotacions ramaderes o en centres de recollida de semen",
+        "Encarregat o encarregada de màquines i equips ramaders",
+        "Responsable i gestor o gestora de ramaderies equines",
+        "Assessor i supervisor o supervisora per a la planificació, muntatge i funcionament d'empreses i entitatsassociades a esdeveniments, espectacles, demostracions eqüestres, activitats recreatives, esportives i terapèutiques (hipoteràpia)"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Mollerussa"],
-        "publicsAltres": ["Escola Agrària de Vallfogona de Balaguer (25000845)-Vallfogona de Balaguer"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
+        "publicsAltres": [
+          "Escola Agrària de Vallfogona de Balaguer (25000845)-Vallfogona de Balaguer"
+        ],
         "concertats": [],
         "privats": []
       },
@@ -291,9 +582,21 @@
       "nivell": "CFPS",
       "codi": "AFA0",
       "nom": "Assistència a la direcció",
-      "perfils": ["Dissenyador gràfic", "Dissenyador de publicacions multimèdia", "Dissenyador o dissenyadora d'envasos i embalatges", "Tècnic en producció editorial", "Assistent en edició", "Tècnic en preimpressió", "Tècnic en gestió de producció gràfica", "Tècnic en desenvolupament i publicació de productes multimèdia", "Tècnic en comercialització de productes gràfics i multimèdia"],
+      "perfils": [
+        "Dissenyador gràfic",
+        "Dissenyador de publicacions multimèdia",
+        "Dissenyador o dissenyadora d'envasos i embalatges",
+        "Tècnic en producció editorial",
+        "Assistent en edició",
+        "Tècnic en preimpressió",
+        "Tècnic en gestió de producció gràfica",
+        "Tècnic en desenvolupament i publicació de productes multimèdia",
+        "Tècnic en comercialització de productes gràfics i multimèdia"
+      ],
       "centres": {
-        "publics": ["Institut la Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut la Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -308,9 +611,24 @@
       "nivell": "CFPM",
       "codi": "AF10",
       "nom": "Preimpressió digital",
-      "perfils": ["Tècnic en preimpressió", "Tècnic en tractament de textos", "Tècnic en tractament d'imatges", "Maquetista i compaginador o compaginadora digital", "Tècnic en publicacions lectròniques i multimèdia", "Preparador d'arxius digitals", "Operador d'escàner i especialista de color", "Tècnic en imposició digital", "Operador o operadora d'equips de filmació d'ordinador a planxa", "Operador d'equips defilmació d'ordinador a pantalla", "Operador d'equips de filmació d'ordinador a fotopolímer", "Tècnic en impressió digital"],
+      "perfils": [
+        "Tècnic en preimpressió",
+        "Tècnic en tractament de textos",
+        "Tècnic en tractament d'imatges",
+        "Maquetista i compaginador o compaginadora digital",
+        "Tècnic en publicacions lectròniques i multimèdia",
+        "Preparador d'arxius digitals",
+        "Operador d'escàner i especialista de color",
+        "Tècnic en imposició digital",
+        "Operador o operadora d'equips de filmació d'ordinador a planxa",
+        "Operador d'equips defilmació d'ordinador a pantalla",
+        "Operador d'equips de filmació d'ordinador a fotopolímer",
+        "Tècnic en impressió digital"
+      ],
       "centres": {
-        "publics": ["Institut la Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut la Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -325,9 +643,32 @@
       "nivell": "CFPM",
       "codi": "CM10",
       "nom": "Activitats comercials",
-      "perfils": ["Venedor tècnic", "Representant comercial", "Venedor", "Orientador comercial", "Promotor o promotora", "Televenedor", "Venda a distància", "Teleoperador de centre d'atenció telefònica", "Informació i atenció al client", "Caixer reposador", "Operador de centre d'atenció multicanal", "Administrador de continguts en línia", "Comerciant de botiga", "Gerent de petit comerç", "Tècnic en gestió d'estocs i magatzem", "Cap de magatzem", "Responsable de recepció de mercaderies", "Responsable d'expedició de mercaderies", "Tècnic en logística de magatzems", "Tècnic d'informació i atenció al client en empreses"],
+      "perfils": [
+        "Venedor tècnic",
+        "Representant comercial",
+        "Venedor",
+        "Orientador comercial",
+        "Promotor o promotora",
+        "Televenedor",
+        "Venda a distància",
+        "Teleoperador de centre d'atenció telefònica",
+        "Informació i atenció al client",
+        "Caixer reposador",
+        "Operador de centre d'atenció multicanal",
+        "Administrador de continguts en línia",
+        "Comerciant de botiga",
+        "Gerent de petit comerç",
+        "Tècnic en gestió d'estocs i magatzem",
+        "Cap de magatzem",
+        "Responsable de recepció de mercaderies",
+        "Responsable d'expedició de mercaderies",
+        "Tècnic en logística de magatzems",
+        "Tècnic d'informació i atenció al client en empreses"
+      ],
       "centres": {
-        "publics": ["ET Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "ET Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -342,11 +683,33 @@
       "nivell": "CFPS",
       "codi": "CMB0",
       "nom": "Comerç internacional",
-      "perfils": ["Tècnic o tècnica d'operacions exteriors d'entitats financeres i asseguradores", "Tècnic o tècnica en comerç exterior.", "Tècnic o tècnica en administració de comerç internacional", "Assistent o assistenta i adjunt o adjunta de comerç internacional", "Agent de comerç internacional", "Tècnic o tècnica de màrqueting internacional", "Tècnic o tècnica de màrqueting digital internacional", "Tècnic o tècnica de venda internacional", "Assistent o assistenta al departament d'operacions comercials internacionals", "Transitari o transitària", "Consignatari o consignatària de vaixells", "Operador logístic o operadora logística", "Cap de magatzem", "Tècnic o tècnica en logística del transport", "Coordinador logístic o coordinadora logística", "Tècnic o tècnica en logística inversa"],
+      "perfils": [
+        "Tècnic o tècnica d'operacions exteriors d'entitats financeres i asseguradores",
+        "Tècnic o tècnica en comerç exterior.",
+        "Tècnic o tècnica en administració de comerç internacional",
+        "Assistent o assistenta i adjunt o adjunta de comerç internacional",
+        "Agent de comerç internacional",
+        "Tècnic o tècnica de màrqueting internacional",
+        "Tècnic o tècnica de màrqueting digital internacional",
+        "Tècnic o tècnica de venda internacional",
+        "Assistent o assistenta al departament d'operacions comercials internacionals",
+        "Transitari o transitària",
+        "Consignatari o consignatària de vaixells",
+        "Operador logístic o operadora logística",
+        "Cap de magatzem",
+        "Tècnic o tècnica en logística del transport",
+        "Coordinador logístic o coordinadora logística",
+        "Tècnic o tècnica en logística inversa"
+      ],
       "centres": {
-        "publics": ["ET Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "ET Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["Ilerna (25002775)-Lleida", "Jesuïtes Clavé Raimat (25002911)-Lleida"],
+        "concertats": [
+          "Ilerna (25002775)-Lleida",
+          "Jesuïtes Clavé Raimat (25002911)-Lleida"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1ra6a0kpksxpysU5ZQwwnckW39DLGZ-I6/view?usp=drive_link",
@@ -359,11 +722,31 @@
       "nivell": "CFPS",
       "codi": "CMD0",
       "nom": "Màrqueting i publicitat",
-      "perfils": ["Assistent del cap de producte", "Tècnic de màrqueting", "Tècnic en publicitat", "Tècnic en relacions públiques", "Organitzador d'esdeveniments de màrqueting i comunicació", "Auxiliar de mitjans en empreses de publicitat", "Controlador d'emissió en mitjans de comunicació", "Tècnic en estudis de mercat i opinió pública", "Tècnic en treballs de camp", "Inspector d'enquestadors", "Agent d'enquestes i censos", "Codificador de dades per a investigacions de mercats", "Responsable de promocions punt de venda", "Especialista en implantació d'espais comercials"],
+      "perfils": [
+        "Assistent del cap de producte",
+        "Tècnic de màrqueting",
+        "Tècnic en publicitat",
+        "Tècnic en relacions públiques",
+        "Organitzador d'esdeveniments de màrqueting i comunicació",
+        "Auxiliar de mitjans en empreses de publicitat",
+        "Controlador d'emissió en mitjans de comunicació",
+        "Tècnic en estudis de mercat i opinió pública",
+        "Tècnic en treballs de camp",
+        "Inspector d'enquestadors",
+        "Agent d'enquestes i censos",
+        "Codificador de dades per a investigacions de mercats",
+        "Responsable de promocions punt de venda",
+        "Especialista en implantació d'espais comercials"
+      ],
       "centres": {
-        "publics": ["ET Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "ET Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["Ilerna (25002775)-Lleida", "Jesuïtes Clavé Raimat (25002911)-Lleida"],
+        "concertats": [
+          "Ilerna (25002775)-Lleida",
+          "Jesuïtes Clavé Raimat (25002911)-Lleida"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1NgOY44-J-uqMTspGU3rNkOr1gco1RXiB/view?usp=drive_link",
@@ -376,9 +759,32 @@
       "nivell": "CFPS",
       "codi": "CMC0",
       "nom": "Transport i logística",
-      "perfils": ["Cap de trànsit d'empreses de transport de viatgers per carretera", "Cap d'operacions", "Gerent de l'empresa de transport", "Inspector de transport de viatgers per carretera", "Cap d'estació d'autobusos", "Gestor o gestora de transport per carretera", "Comercial de serveis de transport per carretera", "Gerent d'empreses de transport per carretera", "Cap de circulació", "Agent de transports", "Agent de càrrega", "Comercial de serveis de transport", "Operador de transport porta a porta", "Transitari", "Consignatari de vaixells", "Operador logístic logística", "Cap de magatzem", "Tècnic en logística del transport", "Coordinador logística", "Tècnic en logística inversa"],
+      "perfils": [
+        "Cap de trànsit d'empreses de transport de viatgers per carretera",
+        "Cap d'operacions",
+        "Gerent de l'empresa de transport",
+        "Inspector de transport de viatgers per carretera",
+        "Cap d'estació d'autobusos",
+        "Gestor o gestora de transport per carretera",
+        "Comercial de serveis de transport per carretera",
+        "Gerent d'empreses de transport per carretera",
+        "Cap de circulació",
+        "Agent de transports",
+        "Agent de càrrega",
+        "Comercial de serveis de transport",
+        "Operador de transport porta a porta",
+        "Transitari",
+        "Consignatari de vaixells",
+        "Operador logístic logística",
+        "Cap de magatzem",
+        "Tècnic en logística del transport",
+        "Coordinador logística",
+        "Tècnic en logística inversa"
+      ],
       "centres": {
-        "publics": ["ET Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "ET Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -393,9 +799,24 @@
       "nivell": "CFPM",
       "codi": "EO20",
       "nom": "Construcció",
-      "perfils": ["Cap d'equip", "Paleta", "Paredador", "Oficial de mires", "Col·locador de paviments", "Constructor de pous en xarxes de sanejament", "Encofrador Ferrallista", "Constructor de teulades", "Pissarrer o pissarrera", "Aplicador de revestiments", "Enrajolador", "Instal·lador de sistemes d'impermeabilització en edificis i obra civil Impermeabilitzador de terrasses"],
+      "perfils": [
+        "Cap d'equip",
+        "Paleta",
+        "Paredador",
+        "Oficial de mires",
+        "Col·locador de paviments",
+        "Constructor de pous en xarxes de sanejament",
+        "Encofrador Ferrallista",
+        "Constructor de teulades",
+        "Pissarrer o pissarrera",
+        "Aplicador de revestiments",
+        "Enrajolador",
+        "Instal·lador de sistemes d'impermeabilització en edificis i obra civil Impermeabilitzador de terrasses"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -410,9 +831,28 @@
       "nivell": "CFPM",
       "codi": "EO10",
       "nom": "Obres d'interior, decoració i rehabilitació",
-      "perfils": ["Cap d'equip de revestiments amb pastes i morters", "Cap d'equip i encarregat o encarregada", "Col·locador de revestiments continus de façanes", "Arrebossador de construcció", "Enrajolador i col·locador de pavimentsInstal·lador de placa de guix laminat i de falsos sostres", "Rejuntador de placa de guix laminat", "Col·locador de prefabricats lleugers a la construcció", "lCo·locador de paviments lleugers, en general", "Col·locador de moqueta", "Instal·lador de paviments elevats registrables", "Instal·ladors de sistemes de mampares i plafons tècnics", "Pintor i empaperador", "Pintor d'interiors", "Pintor decorador d'interiors", "Pintor d'obra", "Pintor de façanes d'edificació"],
+      "perfils": [
+        "Cap d'equip de revestiments amb pastes i morters",
+        "Cap d'equip i encarregat o encarregada",
+        "Col·locador de revestiments continus de façanes",
+        "Arrebossador de construcció",
+        "Enrajolador i col·locador de pavimentsInstal·lador de placa de guix laminat i de falsos sostres",
+        "Rejuntador de placa de guix laminat",
+        "Col·locador de prefabricats lleugers a la construcció",
+        "lCo·locador de paviments lleugers, en general",
+        "Col·locador de moqueta",
+        "Instal·lador de paviments elevats registrables",
+        "Instal·ladors de sistemes de mampares i plafons tècnics",
+        "Pintor i empaperador",
+        "Pintor d'interiors",
+        "Pintor decorador d'interiors",
+        "Pintor d'obra",
+        "Pintor de façanes d'edificació"
+      ],
       "centres": {
-        "publics": ["Institut Torrevicens (25006732)-Lleida"],
+        "publics": [
+          "Institut Torrevicens (25006732)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -427,10 +867,29 @@
       "nivell": "CFPS",
       "codi": "EOA0",
       "nom": "Projectes d'obra civil",
-      "perfils": ["Delineant projectista de carreteres", "Delineant projectista d'urbanització", "Delineant d'obra civil", "Delineant de serveis urbans", "Pràctic en topografia", "Especialista en aixecament de terrenys", "Especialista en aixecament de construccions", "Especialista en replantejaments", "Tècnic d'aparells", "Delineant de topografia", "Ajudant de cap d'oficina tècnica", "Ajudant de planificador", "Ajudant de tècnic de control de costos", "Tècnic de control documental", "Maquetista de construcció", "Delineant projectista de xarxes i sistemes de distribució de fluids"],
+      "perfils": [
+        "Delineant projectista de carreteres",
+        "Delineant projectista d'urbanització",
+        "Delineant d'obra civil",
+        "Delineant de serveis urbans",
+        "Pràctic en topografia",
+        "Especialista en aixecament de terrenys",
+        "Especialista en aixecament de construccions",
+        "Especialista en replantejaments",
+        "Tècnic d'aparells",
+        "Delineant de topografia",
+        "Ajudant de cap d'oficina tècnica",
+        "Ajudant de planificador",
+        "Ajudant de tècnic de control de costos",
+        "Tècnic de control documental",
+        "Maquetista de construcció",
+        "Delineant projectista de xarxes i sistemes de distribució de fluids"
+      ],
       "centres": {
         "publics": [],
-        "publicsAltres": ["Institut Escola de Sobrestants( 25006215)-Tàrrega"],
+        "publicsAltres": [
+          "Institut Escola de Sobrestants( 25006215)-Tàrrega"
+        ],
         "concertats": [],
         "privats": []
       },
@@ -444,9 +903,24 @@
       "nivell": "CFPS",
       "codi": "EOB0",
       "nom": "Projectes edificació",
-      "perfils": ["Delineant projectista d'edificacions", "Delineant d'edificacions", "Delineant d'instal·lacions", "Maquetista de construccions", "Ajudant/a de cap d'oficina tècnica", "Ajudant/a de planificador/a", "Ajudant/a de tècnic/a de control de costos", "Tècnic/a de control documental", "Especialista en replantejaments", "Ajudant/a de processos de certificació energètica d'edificis", "Tècnic/a d'eficiència energètica d'edificis", "Delineant projectista de xarxes i sistemes de distribució de fluids"],
+      "perfils": [
+        "Delineant projectista d'edificacions",
+        "Delineant d'edificacions",
+        "Delineant d'instal·lacions",
+        "Maquetista de construccions",
+        "Ajudant/a de cap d'oficina tècnica",
+        "Ajudant/a de planificador/a",
+        "Ajudant/a de tècnic/a de control de costos",
+        "Tècnic/a de control documental",
+        "Especialista en replantejaments",
+        "Ajudant/a de processos de certificació energètica d'edificis",
+        "Tècnic/a d'eficiència energètica d'edificis",
+        "Delineant projectista de xarxes i sistemes de distribució de fluids"
+      ],
       "centres": {
-        "publics": ["Institut Torrevicens (25006732)-Lleida"],
+        "publics": [
+          "Institut Torrevicens (25006732)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -461,11 +935,26 @@
       "nivell": "CFPS",
       "codi": "EEB0",
       "nom": "Automatització i Robòtica Industrial",
-      "perfils": ["Cap d'equip de supervisió de muntatge i de manteniment de sistemes d'automatització industrial", "Verificador d'aparells, quadres i equips elèctrics", "Cap d'equip en un taller electromecànic", "Tècnic en organització de manteniment de sistemes d'automatització industrial", "Tècnic de posada en marxa de sistemes d'automatització industrial", "Projectista de sistemes de control de sistemes i d'automatització industrial", "Projectista de xarxes de comunicació de sistemes i d'automatització industrial", "Programador i controlador o programadora i controladora de robots industrials", "Tècnic en disseny de sistemes de control elèctric", "Dissenyador de circuits i sistemes integrats en automatització industrial"],
+      "perfils": [
+        "Cap d'equip de supervisió de muntatge i de manteniment de sistemes d'automatització industrial",
+        "Verificador d'aparells, quadres i equips elèctrics",
+        "Cap d'equip en un taller electromecànic",
+        "Tècnic en organització de manteniment de sistemes d'automatització industrial",
+        "Tècnic de posada en marxa de sistemes d'automatització industrial",
+        "Projectista de sistemes de control de sistemes i d'automatització industrial",
+        "Projectista de xarxes de comunicació de sistemes i d'automatització industrial",
+        "Programador i controlador o programadora i controladora de robots industrials",
+        "Tècnic en disseny de sistemes de control elèctric",
+        "Dissenyador de circuits i sistemes integrats en automatització industrial"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["La Salle (25003184)-Mollerussa"],
+        "concertats": [
+          "La Salle (25003184)-Mollerussa"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1THQMJZL2gloEC6MRw7r5uJfMXCNNONQ7/view?usp=drive_link",
@@ -478,11 +967,26 @@
       "nivell": "CFPM",
       "codi": "EE30",
       "nom": "Instal·lacions de telecomunicacions",
-      "perfils": ["Instal·lador d'antenes o de sistemes de seguretat i de telecomunicacions en edificis d'habitatges", "Tècnic en xarxes locals i telemàtica", "Tècnic en instal·lació i manteniment de xarxes locals", "Instal·lador de telefonia", "Instal·lador i muntador d'equips telefònics i telemàtics", "Tècnic en instal·lacions de so", "Instal·lador e megafonia", "Instal·lador i mantenidor de sistemes domòtics", "Tècnic en instal·lació i manteniment d'equips informàtics", "Tècnicen muntatge i manteniment de sistemes de radiofusió"],
+      "perfils": [
+        "Instal·lador d'antenes o de sistemes de seguretat i de telecomunicacions en edificis d'habitatges",
+        "Tècnic en xarxes locals i telemàtica",
+        "Tècnic en instal·lació i manteniment de xarxes locals",
+        "Instal·lador de telefonia",
+        "Instal·lador i muntador d'equips telefònics i telemàtics",
+        "Tècnic en instal·lacions de so",
+        "Instal·lador e megafonia",
+        "Instal·lador i mantenidor de sistemes domòtics",
+        "Tècnic en instal·lació i manteniment d'equips informàtics",
+        "Tècnicen muntatge i manteniment de sistemes de radiofusió"
+      ],
       "centres": {
-        "publics": ["Institut Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["La Salle (25003184)-Mollerussa"],
+        "concertats": [
+          "La Salle (25003184)-Mollerussa"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1eIqhQHlxAZ964Kd-dXiNYdoc_S0632zh/view?usp=drive_link",
@@ -495,11 +999,26 @@
       "nivell": "CFPM",
       "codi": "EE10",
       "nom": "Instal·lacions Elèctriques i Automàtiques",
-      "perfils": ["Electricista industrial i d'instal·lacions elèctriques d'edificis", "Instal·lador de línies elèctriques", "Equips electrònics en edificis", "Antenes i equips telefònics", "Electricista de construcció", "Electricista de manteniment", "Instal·lador i mantenidor de sistemes domòtics", "Muntador d'instal·lacions d'energia solar fotovoltaica", "Instal·lador de telecomunicacions en edificis i habitatges"],
+      "perfils": [
+        "Electricista industrial i d'instal·lacions elèctriques d'edificis",
+        "Instal·lador de línies elèctriques",
+        "Equips electrònics en edificis",
+        "Antenes i equips telefònics",
+        "Electricista de construcció",
+        "Electricista de manteniment",
+        "Instal·lador i mantenidor de sistemes domòtics",
+        "Muntador d'instal·lacions d'energia solar fotovoltaica",
+        "Instal·lador de telecomunicacions en edificis i habitatges"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442) M-T-Lleida", "Institut Josep Vallverdú 25006525"],
+        "publics": [
+          "Institut Escola del Treball (25005442) M-T-Lleida",
+          "Institut Josep Vallverdú 25006525"
+        ],
         "publicsAltres": [],
-        "concertats": ["La Salle (25003184)-Mollerussa"],
+        "concertats": [
+          "La Salle (25003184)-Mollerussa"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1dXQDnXUlXDqDJ1maErR5B6_kvH9VeagI/view?usp=drive_link",
@@ -512,9 +1031,21 @@
       "nivell": "CFPS",
       "codi": "EEC0",
       "nom": "Manteniment Electrònic",
-      "perfils": ["Tècnic en supervisió i verificació d'equips de sistemes de ràdio i televisió i sistemes de producció audiovisual", "Tècnic en reparació i manteniment de sistemes de ràdio i televisió i sistemes de producció audiovisual i de radiodifusió", "Tècnic en supervisió i verificació d'equips de sistemes de radiodifusió", "Tècnic en supervisió i verificació d'equips de sistemes domòtics, immòtics i de seguretat electrònica", "Tècnic en reparació i manteniment de sistemes domòtics, immòtics i de seguretat electrònica", "Tècnic en supervisió i verificació en xarxes locals i sistemes telemàtics", "Tècnic en reparació i manteniment d'equips de xarxes locals i sistemes telemàtics", "Tècnic en supervisió, verificació i control en sistemes de radioenllaç", "Tècnic en reparació i manteniment d'equips professionals d'àudio, de vídeo i d'equips industrials"],
+      "perfils": [
+        "Tècnic en supervisió i verificació d'equips de sistemes de ràdio i televisió i sistemes de producció audiovisual",
+        "Tècnic en reparació i manteniment de sistemes de ràdio i televisió i sistemes de producció audiovisual i de radiodifusió",
+        "Tècnic en supervisió i verificació d'equips de sistemes de radiodifusió",
+        "Tècnic en supervisió i verificació d'equips de sistemes domòtics, immòtics i de seguretat electrònica",
+        "Tècnic en reparació i manteniment de sistemes domòtics, immòtics i de seguretat electrònica",
+        "Tècnic en supervisió i verificació en xarxes locals i sistemes telemàtics",
+        "Tècnic en reparació i manteniment d'equips de xarxes locals i sistemes telemàtics",
+        "Tècnic en supervisió, verificació i control en sistemes de radioenllaç",
+        "Tècnic en reparació i manteniment d'equips professionals d'àudio, de vídeo i d'equips industrials"
+      ],
       "centres": {
-        "publics": ["Institut La Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut La Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -529,12 +1060,24 @@
       "nivell": "CFPS",
       "codi": "EED0",
       "nom": "Sistemes de Telecomunicacions i",
-      "perfils": ["Ajudant de projectista en instal·lacions de telecomunicacions per a habitatges i edificis", "Especialista en instal·lació, integració i manteniment d'equips i sistemes de telecomunicació", "Operari d'obra en instal·lacions de telecomunicacions", "Tècnic o tècnica en supervisió, instal·lació, verificació i control d'equips de sistemes de radi i televisió en estudis de producció i sistemes de producció audiovisual", "Tècnic o tècnica en supervisió, instal·lació, manteniment,verificació i control d'equips de sistemes de radiodifusió", "Tècnic o tècnica en supervisió, instal·lació, manteniment,verificació i control d'equips de sistemes de seguretat electrònica i circuits tancats de televisió", "Tècnic o tècnica en supervisió, instal·lació, manteniment,verificació i control en xarxes locals i sistemes telemàtics", "Tècnic o tècnica en supervisió, instal·lació, manteniment,verificació i control en sistemes de radioenllaços", "Especialista en integració, instal·lació i manteniment d'equips i sistemes informàtics"],
+      "perfils": [
+        "Ajudant de projectista en instal·lacions de telecomunicacions per a habitatges i edificis",
+        "Especialista en instal·lació, integració i manteniment d'equips i sistemes de telecomunicació",
+        "Operari d'obra en instal·lacions de telecomunicacions",
+        "Tècnic o tècnica en supervisió, instal·lació, verificació i control d'equips de sistemes de radi i televisió en estudis de producció i sistemes de producció audiovisual",
+        "Tècnic o tècnica en supervisió, instal·lació, manteniment,verificació i control d'equips de sistemes de radiodifusió",
+        "Tècnic o tècnica en supervisió, instal·lació, manteniment,verificació i control d'equips de sistemes de seguretat electrònica i circuits tancats de televisió",
+        "Tècnic o tècnica en supervisió, instal·lació, manteniment,verificació i control en xarxes locals i sistemes telemàtics",
+        "Tècnic o tècnica en supervisió, instal·lació, manteniment,verificació i control en sistemes de radioenllaços",
+        "Especialista en integració, instal·lació i manteniment d'equips i sistemes informàtics"
+      ],
       "centres": {
         "publics": [],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["La Salle (25003184)-Mollerussa"]
+        "privats": [
+          "La Salle (25003184)-Mollerussa"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1Sd8Q13AFwk5cI5b6xF3KGUiNc5EI6pBu/view?usp=drive_link",
       "cerca": "electricitat i electronica metall i mobilitat cfps eed0 sistemes de telecomunicacions i ajudant de projectista en instal lacions de telecomunicacions per a habitatges i edificis especialista en instal lacio integracio i manteniment d equips i sistemes de telecomunicacio operari d obra en instal lacions de telecomunicacions tecnic o tecnica en supervisio instal lacio verificacio i control d equips de sistemes de radi i televisio en estudis de produccio i sistemes de produccio audiovisual tecnic o tecnica en supervisio instal lacio manteniment verificacio i control d equips de sistemes de radiodifusio tecnic o tecnica en supervisio instal lacio manteniment verificacio i control d equips de sistemes de seguretat electronica i circuits tancats de televisio tecnic o tecnica en supervisio instal lacio manteniment verificacio i control en xarxes locals i sistemes telematics tecnic o tecnica en supervisio instal lacio manteniment verificacio i control en sistemes de radioenllacos especialista en integracio instal lacio i manteniment d equips i sistemes informatics la salle (25003184) mollerussa"
@@ -546,9 +1089,30 @@
       "nivell": "CFPS",
       "codi": "EEA0",
       "nom": "Sistemes Electrotècnics i Automatitzats",
-      "perfils": ["Tècnic en projectes electrotècnics", "Projectista electrotècnic", "Projectista d'instal·lacions d'electrificació de baixa tensió per a habitatges i edificis", "Projectista d'instal·lacions d'electrificació de baixa tensió per a locals especials", "Projectista d'instal·lacions d'enllumenat exterior", "Projectista de línies elèctriques de distribució d'energia elèctrica de mitja tensió i centres de transformació", "Projectista d'instal·lacions d'antenes i de telefonia per a habitatges i edificis", "Coordinador tècnic d'instal·lacions electrotècniques de baixa tensió per als edificis", "Tècnic de supervisió, verificació i control d'equips i instal·lacions electrotècniques i automatitzades", "Tècnic supervisor d'instal·lacions d'enllumenat exterior", "Capatàs d'obres en instal·lacions electrotècniques", "Cap d'equip d'instal·ladors de baixa tensió per a edificis", "Coordinador tècnic de xarxes elèctriques de baixa tensió i enllumenat exterior", "Tècnic en supervisió, verificació i control d'equips de xarxes elèctriques de distribució de baixa tensió i enllumenat exterior", "Capatàs d'obres en xarxes elèctriques de distribució de baixa tensió i enllumenat exterior", "Encarregat d'obres en xarxes elèctriques de distribució de baixa tensió i enllumenat exterior", "Cap d'equip d'instal·ladors de xarxes elèctriques de distribució de baixa tensió i enllumenat exterior", "Gestor del manteniment d'instal·lacions elèctriques de distribució i enllumenat exterior"],
+      "perfils": [
+        "Tècnic en projectes electrotècnics",
+        "Projectista electrotècnic",
+        "Projectista d'instal·lacions d'electrificació de baixa tensió per a habitatges i edificis",
+        "Projectista d'instal·lacions d'electrificació de baixa tensió per a locals especials",
+        "Projectista d'instal·lacions d'enllumenat exterior",
+        "Projectista de línies elèctriques de distribució d'energia elèctrica de mitja tensió i centres de transformació",
+        "Projectista d'instal·lacions d'antenes i de telefonia per a habitatges i edificis",
+        "Coordinador tècnic d'instal·lacions electrotècniques de baixa tensió per als edificis",
+        "Tècnic de supervisió, verificació i control d'equips i instal·lacions electrotècniques i automatitzades",
+        "Tècnic supervisor d'instal·lacions d'enllumenat exterior",
+        "Capatàs d'obres en instal·lacions electrotècniques",
+        "Cap d'equip d'instal·ladors de baixa tensió per a edificis",
+        "Coordinador tècnic de xarxes elèctriques de baixa tensió i enllumenat exterior",
+        "Tècnic en supervisió, verificació i control d'equips de xarxes elèctriques de distribució de baixa tensió i enllumenat exterior",
+        "Capatàs d'obres en xarxes elèctriques de distribució de baixa tensió i enllumenat exterior",
+        "Encarregat d'obres en xarxes elèctriques de distribució de baixa tensió i enllumenat exterior",
+        "Cap d'equip d'instal·ladors de xarxes elèctriques de distribució de baixa tensió i enllumenat exterior",
+        "Gestor del manteniment d'instal·lacions elèctriques de distribució i enllumenat exterior"
+      ],
       "centres": {
-        "publics": ["Institut Josep Vallverdú (25006525)-Les Borges Blanques"],
+        "publics": [
+          "Institut Josep Vallverdú (25006525)-Les Borges Blanques"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -563,9 +1127,24 @@
       "nivell": "CFPS",
       "codi": "EAC0",
       "nom": "Energies renovables",
-      "perfils": ["Responsable de muntatge de parcs eòlics", "Responsable de muntatge d'aerogeneradors", "Especialista muntador d'aerogeneradors", "Especialista en manteniment de parcs Eòlics", "Promotor d'instal·lacions solars", "Projectista d'instal·lacions solars fotovoltaiques", "Responsable de muntatge i manteniment d'instal·lacions solars fotovoltaiques", "Responsable d'explotació i manteniment de petites centrals solars fotovoltaiques", "Muntador i operador o muntadora i operadora d'instal·lacions solars fotovoltaiques", "Encarregat de muntatge de subestacions elèctriques d'instal·lacions eòliques i fotovoltaiques", "Encarregat o encarregada de manteniment de subestacions elèctriques d'instal·lacions eòliques i fotovoltaiques", "Operador i mantenidor de subestacions elèctriques d'instal·lacions eòliques i fotovoltaiques"],
+      "perfils": [
+        "Responsable de muntatge de parcs eòlics",
+        "Responsable de muntatge d'aerogeneradors",
+        "Especialista muntador d'aerogeneradors",
+        "Especialista en manteniment de parcs Eòlics",
+        "Promotor d'instal·lacions solars",
+        "Projectista d'instal·lacions solars fotovoltaiques",
+        "Responsable de muntatge i manteniment d'instal·lacions solars fotovoltaiques",
+        "Responsable d'explotació i manteniment de petites centrals solars fotovoltaiques",
+        "Muntador i operador o muntadora i operadora d'instal·lacions solars fotovoltaiques",
+        "Encarregat de muntatge de subestacions elèctriques d'instal·lacions eòliques i fotovoltaiques",
+        "Encarregat o encarregada de manteniment de subestacions elèctriques d'instal·lacions eòliques i fotovoltaiques",
+        "Operador i mantenidor de subestacions elèctriques d'instal·lacions eòliques i fotovoltaiques"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -580,9 +1159,23 @@
       "nivell": "CFPM",
       "codi": "EA20",
       "nom": "Xarxes i Estacions de Tractament d'Aigües",
-      "perfils": ["Muntador de xarxes de proveïment i de distribució d'aigua", "Muntador de xarxes i instal·lacions de sanejament", "Muntador de xarxes d'aigua", "Muntador de xarxes de Sanejament", "Operador de planta de tractament d'aigua de proveïment", "Operador o de manteniment en plantes de captació d'aigua", "Operador de planta de tractament d'aigües Residuals", "Tècnic de planta de tractament d'aigües residuals", "Operador en instal·lacions d'incineració, de tractament d'aigües i d'altres", "Operador de planta", "Muntador d'instal·lacions d'aigua en edificis"],
+      "perfils": [
+        "Muntador de xarxes de proveïment i de distribució d'aigua",
+        "Muntador de xarxes i instal·lacions de sanejament",
+        "Muntador de xarxes d'aigua",
+        "Muntador de xarxes de Sanejament",
+        "Operador de planta de tractament d'aigua de proveïment",
+        "Operador o de manteniment en plantes de captació d'aigua",
+        "Operador de planta de tractament d'aigües Residuals",
+        "Tècnic de planta de tractament d'aigües residuals",
+        "Operador en instal·lacions d'incineració, de tractament d'aigües i d'altres",
+        "Operador de planta",
+        "Muntador d'instal·lacions d'aigua en edificis"
+      ],
       "centres": {
-        "publics": ["Institut Alfons Costafreda (25004504)-Tàrrega"],
+        "publics": [
+          "Institut Alfons Costafreda (25004504)-Tàrrega"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -597,12 +1190,21 @@
       "nivell": "CFPM",
       "codi": "FM20",
       "nom": "Mecanització",
-      "perfils": ["Operari ajustador de màquines eina", "Polidor de metalls i afilador d'eines", "Operador de màquines per treballar metalls de màquines eina o de robots industrials", "Torner, fresador i mandrinador"],
+      "perfils": [
+        "Operari ajustador de màquines eina",
+        "Polidor de metalls i afilador d'eines",
+        "Operador de màquines per treballar metalls de màquines eina o de robots industrials",
+        "Torner, fresador i mandrinador"
+      ],
       "centres": {
-        "publics": ["Institut Guindavols (25002726)-Lleida"],
+        "publics": [
+          "Institut Guindavols (25002726)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["Vedruna Balaguer (2500821)"]
+        "privats": [
+          "Vedruna Balaguer (2500821)"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1dUk_BIIY6JtQSsaFBpX2QMCQhBEYJnZf/view?usp=drive_link",
       "cerca": "fabricacio mecanica metall i mobilitat cfpm fm20 mecanitzacio operari ajustador de maquines eina polidor de metalls i afilador d eines operador de maquines per treballar metalls de maquines eina o de robots industrials torner fresador i mandrinador institut guindavols (25002726) lleida vedruna balaguer (2500821)"
@@ -614,9 +1216,19 @@
       "nivell": "CFPS",
       "codi": "FMB0",
       "nom": "Programació de la Producció en Fabricació Mecànica",
-      "perfils": ["Tècnica en mecànica", "Encarregat d'instal·lacions de processament de metalls", "Encarregat, d'operadors de màquines per treballar metalls", "Encarregat de Muntadors", "Programador de màquines de control numèric", "Programador de sistemes automatitzats en fabricació mecànica", "Programador de la producció i disseny en Fabricació mecànica."],
+      "perfils": [
+        "Tècnica en mecànica",
+        "Encarregat d'instal·lacions de processament de metalls",
+        "Encarregat, d'operadors de màquines per treballar metalls",
+        "Encarregat de Muntadors",
+        "Programador de màquines de control numèric",
+        "Programador de sistemes automatitzats en fabricació mecànica",
+        "Programador de la producció i disseny en Fabricació mecànica."
+      ],
       "centres": {
-        "publics": ["Institut Guindavols (25002726)-Lleida"],
+        "publics": [
+          "Institut Guindavols (25002726)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -631,9 +1243,21 @@
       "nivell": "CFPS",
       "codi": "FSA0",
       "nom": "Disseny i moblament",
-      "perfils": ["Tècnic en desenvolupament de productes de fusteria i mobles", "Projectista de fusteria i moble", "Gerent d'empreses de fusta i moble i altres manufactures", "Tècnic o tècnica de control de qualitat en indústries de fusta i suro", "Encarregat o encarregada d'oficina tècnica", "Cap de abricació", "Controlador de producció", "Cap de secció", "Cap d'equip"],
+      "perfils": [
+        "Tècnic en desenvolupament de productes de fusteria i mobles",
+        "Projectista de fusteria i moble",
+        "Gerent d'empreses de fusta i moble i altres manufactures",
+        "Tècnic o tècnica de control de qualitat en indústries de fusta i suro",
+        "Encarregat o encarregada d'oficina tècnica",
+        "Cap de abricació",
+        "Controlador de producció",
+        "Cap de secció",
+        "Cap d'equip"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -648,9 +1272,18 @@
       "nivell": "CFPM",
       "codi": "FS10",
       "nom": "Fusta i Moble",
-      "perfils": ["Operador de màquines fixes per fabricar productes de fusta", "Operador de premses", "Operador de banc d'armar", "Muntador coblador d'elements de fusteria", "Envernissador/a i lacador", "Responsable de secció d'acabats"],
+      "perfils": [
+        "Operador de màquines fixes per fabricar productes de fusta",
+        "Operador de premses",
+        "Operador de banc d'armar",
+        "Muntador coblador d'elements de fusteria",
+        "Envernissador/a i lacador",
+        "Responsable de secció d'acabats"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -665,9 +1298,15 @@
       "nivell": "CFPM",
       "codi": "HT10",
       "nom": "Cuina i gastronomia",
-      "perfils": ["Cuiner", "Cap de partida", "Empleat d'economat i celler d'un hotel, restaurant, hospital, empresa de servei d'àpats, etc"],
+      "perfils": [
+        "Cuiner",
+        "Cap de partida",
+        "Empleat d'economat i celler d'un hotel, restaurant, hospital, empresa de servei d'àpats, etc"
+      ],
       "centres": {
-        "publics": ["Institut d'Hoteleria i Turisme (25006720)"],
+        "publics": [
+          "Institut d'Hoteleria i Turisme (25006720)"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -682,9 +1321,19 @@
       "nivell": "CFPS",
       "codi": "HTD0",
       "nom": "Direcció de cuina",
-      "perfils": ["Director de cuina", "Cap de producció a la cuina", "Cap de cuina", "Segon cap de cuina", "Cap de serveis d'àpats (càtering)", "Cap de partida", "Encarregat d'economat i bodega"],
+      "perfils": [
+        "Director de cuina",
+        "Cap de producció a la cuina",
+        "Cap de cuina",
+        "Segon cap de cuina",
+        "Cap de serveis d'àpats (càtering)",
+        "Cap de partida",
+        "Encarregat d'economat i bodega"
+      ],
       "centres": {
-        "publics": ["Institut d'Hoteleria i Turisme (25006720)"],
+        "publics": [
+          "Institut d'Hoteleria i Turisme (25006720)"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -699,9 +1348,22 @@
       "nivell": "CFPS",
       "codi": "HTE0",
       "nom": "Direcció de Serveis en restauració",
-      "perfils": ["Responsable d'aliments i begudes", "Supervisor/a de restauració moderna", "Maître", "Cap de sala", "Encarregat/ada de bar i cafeteria", "Cap de banquets", "Cap d'operacions de càtering", "Sommelier", "Responsable de compra de begudes", "Encarregat/ada d'economat i celler"],
+      "perfils": [
+        "Responsable d'aliments i begudes",
+        "Supervisor/a de restauració moderna",
+        "Maître",
+        "Cap de sala",
+        "Encarregat/ada de bar i cafeteria",
+        "Cap de banquets",
+        "Cap d'operacions de càtering",
+        "Sommelier",
+        "Responsable de compra de begudes",
+        "Encarregat/ada d'economat i celler"
+      ],
       "centres": {
-        "publics": ["Institut d'Hoteleria i Turisme (25006720)"],
+        "publics": [
+          "Institut d'Hoteleria i Turisme (25006720)"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -716,9 +1378,23 @@
       "nivell": "CFPS",
       "codi": "HTF0",
       "nom": "Guia, Informació i Assistències Turístiques",
-      "perfils": ["Guia local", "guia acompanyant", "guia en béns d'interès local", "personal informador turístic", "cap d'oficines d'informació", "personal promotor turístic", "personal tècnic d'empresa de consultoria turística", "agent de desenvolupament turístic local", "personal assistent en mitjans de transport terrestre o marítim personal assistent en terminals (estacions, ports i aeroports)", "personal encarregat de facturació en terminals de transport", "personal assistent en fires, congressos i convencions, i personal encarregat de serveis en esdeveniments"],
+      "perfils": [
+        "Guia local",
+        "guia acompanyant",
+        "guia en béns d'interès local",
+        "personal informador turístic",
+        "cap d'oficines d'informació",
+        "personal promotor turístic",
+        "personal tècnic d'empresa de consultoria turística",
+        "agent de desenvolupament turístic local",
+        "personal assistent en mitjans de transport terrestre o marítim personal assistent en terminals (estacions, ports i aeroports)",
+        "personal encarregat de facturació en terminals de transport",
+        "personal assistent en fires, congressos i convencions, i personal encarregat de serveis en esdeveniments"
+      ],
       "centres": {
-        "publics": ["Institut d'Hoteleria i Turisme (25006720)"],
+        "publics": [
+          "Institut d'Hoteleria i Turisme (25006720)"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -733,9 +1409,16 @@
       "nivell": "CFPM",
       "codi": "HT30",
       "nom": "Serveis de restauració",
-      "perfils": ["Cambrer de bar, cafeteria o restaurant", "Empleat d'economat", "Bàrman", "Sommelier"],
+      "perfils": [
+        "Cambrer de bar, cafeteria o restaurant",
+        "Empleat d'economat",
+        "Bàrman",
+        "Sommelier"
+      ],
       "centres": {
-        "publics": ["Institut d'Hoteleria i Turisme (25006720)"],
+        "publics": [
+          "Institut d'Hoteleria i Turisme (25006720)"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -750,11 +1433,25 @@
       "nivell": "CFPS",
       "codi": "ISE0",
       "nom": "Animacions en 3D, Jocs i Entorns Interactius",
-      "perfils": ["Animador 3D", "Animador 2D", "Interpolador", "Modeladora 3D", "Grafista digital", "Generador d'espais virtuals", "Tècnic d'efectes especials 3D", "Integrador multimèdia Audiovisual", "Desenvolupador d'aplicacions i productes audiovisuals multimèdia", "Editor de continguts audiovisuals multimèdia interactius i no interactius", "Tècnic en sistemes i realització en multimèdia"],
+      "perfils": [
+        "Animador 3D",
+        "Animador 2D",
+        "Interpolador",
+        "Modeladora 3D",
+        "Grafista digital",
+        "Generador d'espais virtuals",
+        "Tècnic d'efectes especials 3D",
+        "Integrador multimèdia Audiovisual",
+        "Desenvolupador d'aplicacions i productes audiovisuals multimèdia",
+        "Editor de continguts audiovisuals multimèdia interactius i no interactius",
+        "Tècnic en sistemes i realització en multimèdia"
+      ],
       "centres": {
         "publics": [],
         "publicsAltres": [],
-        "concertats": ["Ilerna (25002775)-Lleida"],
+        "concertats": [
+          "Ilerna (25002775)-Lleida"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1XfvRSDQchsIKS-8MUvJ5_ta15I4fuDrd/view?usp=drive_link",
@@ -767,9 +1464,24 @@
       "nivell": "CFPS",
       "codi": "ISB0",
       "nom": "Il·luminació, Captació i Tractament d'Imatge",
-      "perfils": ["Operador de càmera de cine, vídeo i televisió", "Ajudant de càmera", "Reporter d'ENG (electronics news gathering)", "Il·luminador de televisió", "Ajudant D'il·luminació", "Responsable d'il·luminació d'espectacles en viu", "Luminotècnic d'espectacles en viu", "Tècnic de taules de control d'il·luminació en Espectacles", "Fotògraf", "Reporter gràfic", "Retocador o retocadora de fotografia digital", "Supervisor de sistemes digitals i vectorials d'imatge"],
+      "perfils": [
+        "Operador de càmera de cine, vídeo i televisió",
+        "Ajudant de càmera",
+        "Reporter d'ENG (electronics news gathering)",
+        "Il·luminador de televisió",
+        "Ajudant D'il·luminació",
+        "Responsable d'il·luminació d'espectacles en viu",
+        "Luminotècnic d'espectacles en viu",
+        "Tècnic de taules de control d'il·luminació en Espectacles",
+        "Fotògraf",
+        "Reporter gràfic",
+        "Retocador o retocadora de fotografia digital",
+        "Supervisor de sistemes digitals i vectorials d'imatge"
+      ],
       "centres": {
-        "publics": ["Institut Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -784,12 +1496,25 @@
       "nivell": "CFPS",
       "codi": "ISA0",
       "nom": "Realització de Projectesd'Audiovisuals i Espectacles",
-      "perfils": ["Ajudant de direcció en cinema", "Ajudant de realització de vídeo", "Ajudant de realització de televisió", "Responsable d'àrea d'audiovisuals (en empreses alienes a D'activitat)", "Muntador de cinema", "Editor muntador de vídeo", "Cap de regidoria", "Regidor d'espectacles en viu", "Regidor d'esdeveniments", "Regidor de parets"],
+      "perfils": [
+        "Ajudant de direcció en cinema",
+        "Ajudant de realització de vídeo",
+        "Ajudant de realització de televisió",
+        "Responsable d'àrea d'audiovisuals (en empreses alienes a D'activitat)",
+        "Muntador de cinema",
+        "Editor muntador de vídeo",
+        "Cap de regidoria",
+        "Regidor d'espectacles en viu",
+        "Regidor d'esdeveniments",
+        "Regidor de parets"
+      ],
       "centres": {
         "publics": [],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["Ilerna (25002775)-Lleida"]
+        "privats": [
+          "Ilerna (25002775)-Lleida"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/13ZXr1a5uDHVV3oV9kW1e8g_FQKS5QlMv/view?usp=drive_link",
       "cerca": "imatge i so cfps isa0 realitzacio de projectesd audiovisuals i espectacles ajudant de direccio en cinema ajudant de realitzacio de video ajudant de realitzacio de televisio responsable d area d audiovisuals (en empreses alienes a d activitat) muntador de cinema editor muntador de video cap de regidoria regidor d espectacles en viu regidor d esdeveniments regidor de parets ilerna (25002775) lleida"
@@ -801,11 +1526,27 @@
       "nivell": "CFPM",
       "codi": "IS10",
       "nom": "Vídeo, discjòquei i so",
-      "perfils": ["Ajudant de so en televisió", "Microfonista de cinema i vídeo", "Microfonista de concerts musicals", "Microfonista d'espectacles escènics", "Ajudant de muntatge de so en Cinema", "Discjòquei", "Videojòquei", "Videodiscjòquei", "Jòquei de llums (light-jokey)", "Retocador fotogràfic digital"],
+      "perfils": [
+        "Ajudant de so en televisió",
+        "Microfonista de cinema i vídeo",
+        "Microfonista de concerts musicals",
+        "Microfonista d'espectacles escènics",
+        "Ajudant de muntatge de so en Cinema",
+        "Discjòquei",
+        "Videojòquei",
+        "Videodiscjòquei",
+        "Jòquei de llums (light-jokey)",
+        "Retocador fotogràfic digital"
+      ],
       "centres": {
-        "publics": ["Institut Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["La Salle (25003184)-Mollerussa", "Ilerna (25002775)-Lleida"],
+        "concertats": [
+          "La Salle (25003184)-Mollerussa",
+          "Ilerna (25002775)-Lleida"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1EdYZxRO_A6XSTP-M_zpuvT32OHOM0KhT/view?usp=drive_link",
@@ -818,9 +1559,14 @@
       "nivell": "CFPS",
       "codi": "IPA10",
       "nom": "Assessoria d'Imatge Personal i Corporativa",
-      "perfils": ["Director tecnicoartístic en produccions audiovisuals, escèniques i de moda", "Tècnic de protocol i cerimonial en institucions"],
+      "perfils": [
+        "Director tecnicoartístic en produccions audiovisuals, escèniques i de moda",
+        "Tècnic de protocol i cerimonial en institucions"
+      ],
       "centres": {
-        "publics": ["Institut Torre Vicens (25006732)"],
+        "publics": [
+          "Institut Torre Vicens (25006732)"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -835,9 +1581,21 @@
       "nivell": "CFPM",
       "codi": "IP20",
       "nom": "Estetica i Bellesa",
-      "perfils": ["Tècnic esteticista en centres de bellesa i gabinets d'estètica", "Maquillador", "Tècnic d'ungles artificials", "Tècnic en depilació", "Tècnic en manicura i pedicura", "Recepcionista en empreses estètiques", "Demostrador d'equips, cosmètics i tècniques estètiques", "Agent comercial en empreses del sector", "Assessor i venedor o assessora i venedora en perfumeries i drogueries."],
+      "perfils": [
+        "Tècnic esteticista en centres de bellesa i gabinets d'estètica",
+        "Maquillador",
+        "Tècnic d'ungles artificials",
+        "Tècnic en depilació",
+        "Tècnic en manicura i pedicura",
+        "Recepcionista en empreses estètiques",
+        "Demostrador d'equips, cosmètics i tècniques estètiques",
+        "Agent comercial en empreses del sector",
+        "Assessor i venedor o assessora i venedora en perfumeries i drogueries."
+      ],
       "centres": {
-        "publics": ["Institut Torre Vicens (25006732)"],
+        "publics": [
+          "Institut Torre Vicens (25006732)"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -852,9 +1610,30 @@
       "nivell": "CFPS",
       "codi": "IPB0",
       "nom": "Estetica Integral i Benestar",
-      "perfils": ["Director tecnicoartístic o directora tecnicoartístic en produccions audiovisuals, escèniques i de moda", "Tècnic de protocol i cerimonial en institucions públiques i privades", "Expert o en etiqueta i usos socials", "Assessor i consultor d'estilisme en el vestir", "Assessor d'estils i tendències", "Assistent tècnic d'imatge política, cultural i artística", "Assessoren comerços de vestuari i complements", "Assessor d'imatge en mitjans audiovisuals i de moda", "Tècnic comercial", "Assessor i consultor d'imatge corporativa", "Tècnic especialista en gabinets de relacions públiques", "Tècnic especialista en imatge en departament de màrqueting", "Director de gabinet d'assessoria d'imatge", "Consultor i assessor de protocol i organització d'actes i esdeveniments", "Assessor en la compra de vestuari complements, regals i cosmètics", "Assistent personal en la cura de la imatge", "organitzador o organitzadora de casaments", "Assessor de premsa especialitzada en imatge personal."],
+      "perfils": [
+        "Director tecnicoartístic o directora tecnicoartístic en produccions audiovisuals, escèniques i de moda",
+        "Tècnic de protocol i cerimonial en institucions públiques i privades",
+        "Expert o en etiqueta i usos socials",
+        "Assessor i consultor d'estilisme en el vestir",
+        "Assessor d'estils i tendències",
+        "Assistent tècnic d'imatge política, cultural i artística",
+        "Assessoren comerços de vestuari i complements",
+        "Assessor d'imatge en mitjans audiovisuals i de moda",
+        "Tècnic comercial",
+        "Assessor i consultor d'imatge corporativa",
+        "Tècnic especialista en gabinets de relacions públiques",
+        "Tècnic especialista en imatge en departament de màrqueting",
+        "Director de gabinet d'assessoria d'imatge",
+        "Consultor i assessor de protocol i organització d'actes i esdeveniments",
+        "Assessor en la compra de vestuari complements, regals i cosmètics",
+        "Assistent personal en la cura de la imatge",
+        "organitzador o organitzadora de casaments",
+        "Assessor de premsa especialitzada en imatge personal."
+      ],
       "centres": {
-        "publics": ["Institut Torre Vicens (25006732)"],
+        "publics": [
+          "Institut Torre Vicens (25006732)"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -869,9 +1648,23 @@
       "nivell": "CFPM",
       "codi": "IP10",
       "nom": "Perruqueria i Estetica Capilar",
-      "perfils": ["Perruquer", "Barber", "Tècnic en coloracions capil•lars", "Tècnic en canvis de forma del cabell", "Tècnic en tall de cabell", "Tècnica en postisseria", "Tècnic en manicura", "Tècnica en pedicura", "Tècnica o agent comercial d’empreses del sector", "Recepcionista en empreses perruqueria", "Demostrador d’equips, cosmètics i tècniques de perruqueria."],
+      "perfils": [
+        "Perruquer",
+        "Barber",
+        "Tècnic en coloracions capil•lars",
+        "Tècnic en canvis de forma del cabell",
+        "Tècnic en tall de cabell",
+        "Tècnica en postisseria",
+        "Tècnic en manicura",
+        "Tècnica en pedicura",
+        "Tècnica o agent comercial d’empreses del sector",
+        "Recepcionista en empreses perruqueria",
+        "Demostrador d’equips, cosmètics i tècniques de perruqueria."
+      ],
       "centres": {
-        "publics": ["Institut Torre Vicens (25006732)"],
+        "publics": [
+          "Institut Torre Vicens (25006732)"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -886,9 +1679,21 @@
       "nivell": "CFPM",
       "codi": "IA10",
       "nom": "Elaboració de productes alimentaris",
-      "perfils": ["Elaborador de productes alimentaris", "Operador de màquines i equips per al tractament i l'elaboració de productes alimentaris", "Operador i controlador de línies d'envasament i embalatge", "Recepcionista i magatzemista", "Abastador de matèries primeres i de materials a les línies de producció", "Operador de dosificadors", "Supervisor de línia"],
+      "perfils": [
+        "Elaborador de productes alimentaris",
+        "Operador de màquines i equips per al tractament i l'elaboració de productes alimentaris",
+        "Operador i controlador de línies d'envasament i embalatge",
+        "Recepcionista i magatzemista",
+        "Abastador de matèries primeres i de materials a les línies de producció",
+        "Operador de dosificadors",
+        "Supervisor de línia"
+      ],
       "centres": {
-        "publics": ["Institut d'Hoteleria i Turisme (25006720)-Lleida", "Institut de Guissona (25007505)-Guissona", "Institut Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "Institut d'Hoteleria i Turisme (25006720)-Lleida",
+          "Institut de Guissona (25007505)-Guissona",
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -903,9 +1708,21 @@
       "nivell": "CFPM",
       "codi": "IA60",
       "nom": "Formeria, Pastisseria i confiteria",
-      "perfils": ["Fornera", "Elaborador de brioixeria, masses i bases de pizza", "Pastisser", "Elaborador i decorador de pastissos", "Confiter", "Reboster", "Torronaire", "Elaborador de caramels i dolços"],
+      "perfils": [
+        "Fornera",
+        "Elaborador de brioixeria, masses i bases de pizza",
+        "Pastisser",
+        "Elaborador i decorador de pastissos",
+        "Confiter",
+        "Reboster",
+        "Torronaire",
+        "Elaborador de caramels i dolços"
+      ],
       "centres": {
-        "publics": ["Institut d'Hoteleria i Turisme (25006720)-Lleida", "Institut Ribera del Sió (25005260)-Agramunt"],
+        "publics": [
+          "Institut d'Hoteleria i Turisme (25006720)-Lleida",
+          "Institut Ribera del Sió (25005260)-Agramunt"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -920,10 +1737,29 @@
       "nivell": "CFPS",
       "codi": "IAB0",
       "nom": "Processos i Qualitat en industries alimentàries",
-      "perfils": ["Cap de línia, de planta de fabricació, de secció o de magatzem", "Cap de torn", "Supervisor d'equips, processos i productes", "Encarregat de producció", "Encarregat d'elaboració de productes nous i desenvolupament de processos", "Encarregat en anàlisi d'aliments", "Tècnic en anàlisi sensorial", "Tècnic en laboratori de control de qualitat", "Inspector o auditor de qualitat", "Encarregat de la gestió de la seguretat alimentària", "Encarregat d'aprovisionaments", "Encarregat de la línia d'envasament i embalatge", "Encarregat de control ambiental i seguretat laboral", "Tècnic comercial"],
+      "perfils": [
+        "Cap de línia, de planta de fabricació, de secció o de magatzem",
+        "Cap de torn",
+        "Supervisor d'equips, processos i productes",
+        "Encarregat de producció",
+        "Encarregat d'elaboració de productes nous i desenvolupament de processos",
+        "Encarregat en anàlisi d'aliments",
+        "Tècnic en anàlisi sensorial",
+        "Tècnic en laboratori de control de qualitat",
+        "Inspector o auditor de qualitat",
+        "Encarregat de la gestió de la seguretat alimentària",
+        "Encarregat d'aprovisionaments",
+        "Encarregat de la línia d'envasament i embalatge",
+        "Encarregat de control ambiental i seguretat laboral",
+        "Tècnic comercial"
+      ],
       "centres": {
-        "publics": ["Institut de Guissona (25007505)-Guissona"],
-        "publicsAltres": ["Escola agrària de Tàrrega (25004504)-Tàrrega"],
+        "publics": [
+          "Institut de Guissona (25007505)-Guissona"
+        ],
+        "publicsAltres": [
+          "Escola agrària de Tàrrega (25004504)-Tàrrega"
+        ],
         "concertats": [],
         "privats": []
       },
@@ -937,9 +1773,28 @@
       "nivell": "CFPM",
       "codi": "IE11",
       "nom": "Excavacions i Sondatges, perfil professional d'operacions de maquinària i construcció",
-      "perfils": ["Miner", "Conductor i operador de maquinària d'extracció i excavació", "Conductor i operador de pala carregadora d'interior", "Operadora de maquinària de perforació i mandrinatge", "Operador de maquinària perforadora de pous", "Operadora de maquinària d'arrencada estassadores i raspalls", "Conductor i operador de maquinària de moviment de terres", "Artiller", "Operador de minador", "Apuntalador", "Barrinaire", "Picadora de mines", "Electromecànica de mines", "Oficial mecànic", "Sondista de prospecció minera i geotècnica", "Tècnic de prospeccions i sondatges"],
+      "perfils": [
+        "Miner",
+        "Conductor i operador de maquinària d'extracció i excavació",
+        "Conductor i operador de pala carregadora d'interior",
+        "Operadora de maquinària de perforació i mandrinatge",
+        "Operador de maquinària perforadora de pous",
+        "Operadora de maquinària d'arrencada estassadores i raspalls",
+        "Conductor i operador de maquinària de moviment de terres",
+        "Artiller",
+        "Operador de minador",
+        "Apuntalador",
+        "Barrinaire",
+        "Picadora de mines",
+        "Electromecànica de mines",
+        "Oficial mecànic",
+        "Sondista de prospecció minera i geotècnica",
+        "Tècnic de prospeccions i sondatges"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -954,9 +1809,32 @@
       "nivell": "CFPM",
       "codi": "IE20",
       "nom": "Pedra Natural",
-      "perfils": ["Picapedrer", "Operador de maquinària d’arrencada i conformació de blocs", "Elaborador d’obra de carreus", "Operador de maquinària de control numèric de pedra natural", "Operador torner-fresador de pedra", "Operador de màquina talladora de pedra natural", "Operador de màquines per elaborar peces", "Operador de màquina per afaiçonar pedra", "Operador de màquina polidora de roques", "Operador de màquina per al tractament superficial físic de pedra", "Tallista, personal d’obratge i tallador de pedra natural", "Operador de tractaments químics per a pedra", "Embalador/empaquetador/etiquetador", "Col·locador de conjunts artesanals de pedra natural", "Col·locador de plaques", "Col·locador de façanes ventilades", "Polidor-brunyidor de terres", "Marbrista de la construcció", "Treballador qualificat en manteniment i restauració de pedra natural", "Treballador especialista en l'elaboració de plantilles, motlles, models i maquetes per a treballs de pedra natural"],
+      "perfils": [
+        "Picapedrer",
+        "Operador de maquinària d’arrencada i conformació de blocs",
+        "Elaborador d’obra de carreus",
+        "Operador de maquinària de control numèric de pedra natural",
+        "Operador torner-fresador de pedra",
+        "Operador de màquina talladora de pedra natural",
+        "Operador de màquines per elaborar peces",
+        "Operador de màquina per afaiçonar pedra",
+        "Operador de màquina polidora de roques",
+        "Operador de màquina per al tractament superficial físic de pedra",
+        "Tallista, personal d’obratge i tallador de pedra natural",
+        "Operador de tractaments químics per a pedra",
+        "Embalador/empaquetador/etiquetador",
+        "Col·locador de conjunts artesanals de pedra natural",
+        "Col·locador de plaques",
+        "Col·locador de façanes ventilades",
+        "Polidor-brunyidor de terres",
+        "Marbrista de la construcció",
+        "Treballador qualificat en manteniment i restauració de pedra natural",
+        "Treballador especialista en l'elaboració de plantilles, motlles, models i maquetes per a treballs de pedra natural"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -971,9 +1849,24 @@
       "nivell": "CFPS",
       "codi": "ICA0",
       "nom": "Administració de sistemes informatics en xarxa,",
-      "perfils": ["Tècnic en administració de sistemes", "Responsable d'informàtica", "Tècnica en serveis d'Internet", "Tècnic en serveis de missatgeria electrònica", "Personal de suport tècnic", "Tècnic en teleassistència", "Tècnica en administració de base de dades", "Tècnic de xarxes", "Supervisor de sistemes", "Tècnic en serveis de comunicacions", "Tècnic en entorns web"],
+      "perfils": [
+        "Tècnic en administració de sistemes",
+        "Responsable d'informàtica",
+        "Tècnica en serveis d'Internet",
+        "Tècnic en serveis de missatgeria electrònica",
+        "Personal de suport tècnic",
+        "Tècnic en teleassistència",
+        "Tècnica en administració de base de dades",
+        "Tècnic de xarxes",
+        "Supervisor de sistemes",
+        "Tècnic en serveis de comunicacions",
+        "Tècnic en entorns web"
+      ],
       "centres": {
-        "publics": ["Institut Caparrella (25002799)-Lleida", "Institut Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "Institut Caparrella (25002799)-Lleida",
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -988,9 +1881,23 @@
       "nivell": "CFPS",
       "codi": "ICA1",
       "nom": "Administració de sistemes informatics en xarxa, perfil professional ciberseguretat",
-      "perfils": ["Tècnic en administració de sistemes", "Responsable d'informàtica", "Tècnica en serveis d'Internet", "Tècnic en serveis de missatgeria electrònica", "Personal de suport tècnic", "Tècnic en teleassistència", "Tècnica en administració de base de dades", "Tècnic de xarxes", "Supervisor de sistemes", "Tècnic en serveis de comunicacions", "Tècnic en entorns web"],
+      "perfils": [
+        "Tècnic en administració de sistemes",
+        "Responsable d'informàtica",
+        "Tècnica en serveis d'Internet",
+        "Tècnic en serveis de missatgeria electrònica",
+        "Personal de suport tècnic",
+        "Tècnic en teleassistència",
+        "Tècnica en administració de base de dades",
+        "Tècnic de xarxes",
+        "Supervisor de sistemes",
+        "Tècnic en serveis de comunicacions",
+        "Tècnic en entorns web"
+      ],
       "centres": {
-        "publics": ["Institut Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1005,12 +1912,21 @@
       "nivell": "CFPS",
       "codi": "ICB0",
       "nom": "Desenvolupament d'aplicacions multiplataforma",
-      "perfils": ["Tècnic en desenvolupament d'aplicacions informàtiques per a la gestió empresarial i de negocis", "Tècnic en desenvolupament d'aplicacions informàtiques de propòsit general i en l'àmbit de l'entreteniment i de l'informàtica mòbil"],
+      "perfils": [
+        "Tècnic en desenvolupament d'aplicacions informàtiques per a la gestió empresarial i de negocis",
+        "Tècnic en desenvolupament d'aplicacions informàtiques de propòsit general i en l'àmbit de l'entreteniment i de l'informàtica mòbil"
+      ],
       "centres": {
-        "publics": ["Institut Almatà (25005727)-Balaguer", "Institut Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut Almatà (25005727)-Balaguer",
+          "Institut Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["Ilerna (25002775)-Lleida", "La Salle Mollerussa (25003184)-Mollerussa"]
+        "privats": [
+          "Ilerna (25002775)-Lleida",
+          "La Salle Mollerussa (25003184)-Mollerussa"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1EdSToaVEk2aK8W7xGMnt2Dbf7_zWhrzm/view?usp=drive_link",
       "cerca": "informatica i comunicacions transformacio digital cfps icb0 desenvolupament d aplicacions multiplataforma tecnic en desenvolupament d aplicacions informatiques per a la gestio empresarial i de negocis tecnic en desenvolupament d aplicacions informatiques de proposit general i en l ambit de l entreteniment i de l informatica mobil institut almata (25005727) balaguer institut caparrella (25002799) lleida ilerna (25002775) lleida la salle mollerussa (25003184) mollerussa"
@@ -1022,12 +1938,17 @@
       "nivell": "CFPS",
       "codi": "ICB2",
       "nom": "Desenvolupament d'aplicacions multiplataforma, perfil professional videojocs i oci digital",
-      "perfils": ["Tècnic en desenvolupament d'aplicacions informàtiques per a la gestió empresarial i de negocis", "Tècnic en desenvolupament d'aplicacions informàtiques de propòsit general i en l'àmbit de l'entreteniment i de la informàtica mòbil"],
+      "perfils": [
+        "Tècnic en desenvolupament d'aplicacions informàtiques per a la gestió empresarial i de negocis",
+        "Tècnic en desenvolupament d'aplicacions informàtiques de propòsit general i en l'àmbit de l'entreteniment i de la informàtica mòbil"
+      ],
       "centres": {
         "publics": [],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["La Salle Mollerussa 25003184"]
+        "privats": [
+          "La Salle Mollerussa 25003184"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1auutrTAl0OmhldXmhRdP_ouK3pZ-myCc/view?usp=drive_link",
       "cerca": "informatica i comunicacions transformacio digital cfps icb2 desenvolupament d aplicacions multiplataforma perfil professional videojocs i oci digital tecnic en desenvolupament d aplicacions informatiques per a la gestio empresarial i de negocis tecnic en desenvolupament d aplicacions informatiques de proposit general i en l ambit de l entreteniment i de la informatica mobil la salle mollerussa 25003184"
@@ -1039,12 +1960,22 @@
       "nivell": "CFPS",
       "codi": "ICC0",
       "nom": "Desenvolupament d'aplicacions web",
-      "perfils": ["Desenvolupador d'aplicacions en entorns web", "Programador multimèdia", "Programador web"],
+      "perfils": [
+        "Desenvolupador d'aplicacions en entorns web",
+        "Programador multimèdia",
+        "Programador web"
+      ],
       "centres": {
-        "publics": ["Institut Almatà (25005727)-Balaguer", "Institut Caparrella (25002799)-Lleida", "Institut Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "Institut Almatà (25005727)-Balaguer",
+          "Institut Caparrella (25002799)-Lleida",
+          "Institut Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["Ilerna (25002775)-Lleida"]
+        "privats": [
+          "Ilerna (25002775)-Lleida"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1m61VoXwaCxhBCgX5aGC9U7VajNmSnPpO/view?usp=drive_link",
       "cerca": "informatica i comunicacions transformacio digital cfps icc0 desenvolupament d aplicacions web desenvolupador d aplicacions en entorns web programador multimedia programador web institut almata (25005727) balaguer institut caparrella (25002799) lleida institut mollerussa (25003202) mollerussa ilerna (25002775) lleida"
@@ -1056,11 +1987,28 @@
       "nivell": "CFPM",
       "codi": "IC10",
       "nom": "Sistemes microinformàtics i xarxes",
-      "perfils": ["Tècnic instal·lador i reparador d'equips informàtics", "Tècnic en manteniment de sistemes informàtics", "Tècnic en manteniment de serveis d'Internet", "Tècnic de suport informàtic", "Tècnic de xarxes de dades", "Tècnic en vendes de TIC per a sectors industrials", "Reparador de perifèrics de sistemes microinformàtics", "Operador de teleassistència", "Operador de sistemes"],
+      "perfils": [
+        "Tècnic instal·lador i reparador d'equips informàtics",
+        "Tècnic en manteniment de sistemes informàtics",
+        "Tècnic en manteniment de serveis d'Internet",
+        "Tècnic de suport informàtic",
+        "Tècnic de xarxes de dades",
+        "Tècnic en vendes de TIC per a sectors industrials",
+        "Reparador de perifèrics de sistemes microinformàtics",
+        "Operador de teleassistència",
+        "Operador de sistemes"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Mollerussa", "Institut Almatà (25005727)-Balaguer", "Institut La Segarra (25005685)-Cervera", "Institut Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Mollerussa",
+          "Institut Almatà (25005727)-Balaguer",
+          "Institut La Segarra (25005685)-Cervera",
+          "Institut Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["Ilerna (25002775)-Lleida"],
+        "concertats": [
+          "Ilerna (25002775)-Lleida"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1KGlwutZXQu9P0FTpy3M6KoLOSPOdmrli/view?usp=drive_link",
@@ -1073,9 +2021,18 @@
       "nivell": "CFPM",
       "codi": "IM20",
       "nom": "Instal·lacions de producció de calor",
-      "perfils": ["Instal·lador frigorista en instal·lacions comercials", "Instal·lador mantenidor/a d'equips de producció de calor", "Instal·lador mantenidor/a d'instal·lacions de calefacció i ACS", "Instal·lador mantenidor/a d'instal·lacions solars tèrmiques", "Instal·lador mantenidor/a d'instal·lacions d'aigua", "Instal·lador mantenidor/a d'instal·lacions de gas i combustibles líquids"],
+      "perfils": [
+        "Instal·lador frigorista en instal·lacions comercials",
+        "Instal·lador mantenidor/a d'equips de producció de calor",
+        "Instal·lador mantenidor/a d'instal·lacions de calefacció i ACS",
+        "Instal·lador mantenidor/a d'instal·lacions solars tèrmiques",
+        "Instal·lador mantenidor/a d'instal·lacions d'aigua",
+        "Instal·lador mantenidor/a d'instal·lacions de gas i combustibles líquids"
+      ],
       "centres": {
-        "publics": ["Institut Guindàvols (25002726)-Lleida"],
+        "publics": [
+          "Institut Guindàvols (25002726)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1090,9 +2047,18 @@
       "nivell": "CFPM",
       "codi": "IM30",
       "nom": "Instal·lacions frigorífiques i de climatització",
-      "perfils": ["Instal·lador frigorista en instal·lacions comercials", "Mantenidor frigorista en instal·lacions comercials", "Instal·lador frigorista en processos industrials", "Mantenidor frigorista en processos industrials", "Instal·lador i muntador d'equips de climatització, ventilació i extracció, xarxes de distribució i equips terminals", "Mantenidor i reparador d'equips de climatització, ventilació i extracció, xarxes de distribució i equips terminals"],
+      "perfils": [
+        "Instal·lador frigorista en instal·lacions comercials",
+        "Mantenidor frigorista en instal·lacions comercials",
+        "Instal·lador frigorista en processos industrials",
+        "Mantenidor frigorista en processos industrials",
+        "Instal·lador i muntador d'equips de climatització, ventilació i extracció, xarxes de distribució i equips terminals",
+        "Mantenidor i reparador d'equips de climatització, ventilació i extracció, xarxes de distribució i equips terminals"
+      ],
       "centres": {
-        "publics": ["Institut Guindàvols (25002726)-Lleida"],
+        "publics": [
+          "Institut Guindàvols (25002726)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1107,9 +2073,16 @@
       "nivell": "CFPS",
       "codi": "IMA0",
       "nom": "Manteniment d'Instal·lacions termiques i de fluids",
-      "perfils": ["Delineant projectista d'instal·lacions calorífiques, de climatització i ventilació i extracció, d'instal·lacions frigorífiques i de xarxes i sistemes de distribució de fluids", "Tècnic en planificació de muntatges d'instal·lacions calorífiques", "Tècnic en planificació de muntatges d'instal·lacions de climatització i ventilació i extracció", "Tècnic en planificació de muntatges"],
+      "perfils": [
+        "Delineant projectista d'instal·lacions calorífiques, de climatització i ventilació i extracció, d'instal·lacions frigorífiques i de xarxes i sistemes de distribució de fluids",
+        "Tècnic en planificació de muntatges d'instal·lacions calorífiques",
+        "Tècnic en planificació de muntatges d'instal·lacions de climatització i ventilació i extracció",
+        "Tècnic en planificació de muntatges"
+      ],
       "centres": {
-        "publics": ["Institut Guindàvols (25002726)-Lleida"],
+        "publics": [
+          "Institut Guindàvols (25002726)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1124,9 +2097,23 @@
       "nivell": "CFPS",
       "codi": "IM10",
       "nom": "Manteniment electromecànic",
-      "perfils": ["Mecànic de manteniment", "Muntador industrial", "Muntadora d'equips elèctrics", "Muntadora d'equips electrònics", "Mantenidora de línia automatitzada", "Muntadora de béns d'equip", "Muntadora d'automatismes pneumàtics i hidràulics", "Instal·ladora electricista industrial", "Electricista de manteniment i reparació d'equips de control, mesura i precisió"],
+      "perfils": [
+        "Mecànic de manteniment",
+        "Muntador industrial",
+        "Muntadora d'equips elèctrics",
+        "Muntadora d'equips electrònics",
+        "Mantenidora de línia automatitzada",
+        "Muntadora de béns d'equip",
+        "Muntadora d'automatismes pneumàtics i hidràulics",
+        "Instal·ladora electricista industrial",
+        "Electricista de manteniment i reparació d'equips de control, mesura i precisió"
+      ],
       "centres": {
-        "publics": ["Institut Alfons Costafreda (25006781)-Tàrrega", "Institut Guindàvols (25002726)-Lleida", "Institut de Guissona (25007505)-Guissona"],
+        "publics": [
+          "Institut Alfons Costafreda (25006781)-Tàrrega",
+          "Institut Guindàvols (25002726)-Lleida",
+          "Institut de Guissona (25007505)-Guissona"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1141,9 +2128,16 @@
       "nivell": "CFPS",
       "codi": "IMC0",
       "nom": "Mecatronica Industrial",
-      "perfils": ["Tècnic en planificació i programació de processos de manteniment d'instal·lacions de maquinària i equips industrials", "Cap d'equip en muntatge d'instal·lacions de maquinària i equips industrials", "Cap d'equip en manteniment d'instal·lacions de maquinària i equips industrials", "Cap d'equip en muntatges de xarxes i sistemes de distribució de fluids"],
+      "perfils": [
+        "Tècnic en planificació i programació de processos de manteniment d'instal·lacions de maquinària i equips industrials",
+        "Cap d'equip en muntatge d'instal·lacions de maquinària i equips industrials",
+        "Cap d'equip en manteniment d'instal·lacions de maquinària i equips industrials",
+        "Cap d'equip en muntatges de xarxes i sistemes de distribució de fluids"
+      ],
       "centres": {
-        "publics": ["Institut Alfons Costafreda (25006781)-Tàrrega"],
+        "publics": [
+          "Institut Alfons Costafreda (25006781)-Tàrrega"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1158,9 +2152,16 @@
       "nivell": "CFPS",
       "codi": "QUD0",
       "nom": "Laboratori d'analisi i control de qüalitat",
-      "perfils": ["Tècnic de laboratori i de control de qualitat", "Analista d'investigació i desenvolupament", "Analista d'aigües", "Analista de matèries primeres i de productes acabats"],
+      "perfils": [
+        "Tècnic de laboratori i de control de qualitat",
+        "Analista d'investigació i desenvolupament",
+        "Analista d'aigües",
+        "Analista de matèries primeres i de productes acabats"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1175,9 +2176,19 @@
       "nivell": "CFPS",
       "codi": "SAC0",
       "nom": "Anatomica Patològica i Citologia",
-      "perfils": ["Tècnica superior en anatomia patològica i citologia", "Tècnica especialista en anatomia patològica i citologia", "Citotècnic ajudant o ajudant de forense", "Prosector d'autòpsies clíniques i medicolegals", "Tanatopràctic", "Col·laborador i assistent en Biologia molecular", "Col·laborador i assistent d'investigació"],
+      "perfils": [
+        "Tècnica superior en anatomia patològica i citologia",
+        "Tècnica especialista en anatomia patològica i citologia",
+        "Citotècnic ajudant o ajudant de forense",
+        "Prosector d'autòpsies clíniques i medicolegals",
+        "Tanatopràctic",
+        "Col·laborador i assistent en Biologia molecular",
+        "Col·laborador i assistent d'investigació"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1192,9 +2203,16 @@
       "nivell": "CFPS",
       "codi": "SAG0",
       "nom": "Audiologia Protètica",
-      "perfils": ["Tècnic superior en audiopròtesi", "Tècnic especialista audioprotesista", "Tècnic en elaboració de motlles i protectors auditius", "Tècnic en medició de nivell sonor i audiometrista"],
+      "perfils": [
+        "Tècnic superior en audiopròtesi",
+        "Tècnic especialista audioprotesista",
+        "Tècnic en elaboració de motlles i protectors auditius",
+        "Tècnic en medició de nivell sonor i audiometrista"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1209,12 +2227,23 @@
       "nivell": "CFPM",
       "codi": "1601",
       "nom": "Cures auxiliar Infermeria",
-      "perfils": ["Tècnic auxiliar d'atenció primària o domiciliària", "Tècnic auxiliar de salut mental", "Tècnic auxiliar d'infermeria"],
+      "perfils": [
+        "Tècnic auxiliar d'atenció primària o domiciliària",
+        "Tècnic auxiliar de salut mental",
+        "Tècnic auxiliar d'infermeria"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida", "Institut Almatà (25005727)-Balaguer", "Institut La Segarra (25005685)-Cervera"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida",
+          "Institut Almatà (25005727)-Balaguer",
+          "Institut La Segarra (25005685)-Cervera"
+        ],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["General d'Estudis 25010206-Lleida", "Ilerna (25002775)-Lleida"]
+        "privats": [
+          "General d'Estudis 25010206-Lleida",
+          "Ilerna (25002775)-Lleida"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1qz6Orw1tIkj5z1hEu14gpzwsPPSmx12n/view?usp=drive_link",
       "cerca": "sanitat salut i atencio a les persones cfpm 1601 cures auxiliar infermeria tecnic auxiliar d atencio primaria o domiciliaria tecnic auxiliar de salut mental tecnic auxiliar d infermeria institut torre vicens (25006732) lleida institut almata (25005727) balaguer institut la segarra (25005685) cervera general d estudis 25010206 lleida ilerna (25002775) lleida"
@@ -1226,12 +2255,22 @@
       "nivell": "CFPS",
       "codi": "1651",
       "nom": "Dietètica",
-      "perfils": ["Tècnica en dietètica i nutrició", "Responsable d'alimentació en empreses de servei d'àpats", "Tècnic en higiene dels aliments", "Consultor en alimentació", "Educador sanitari"],
+      "perfils": [
+        "Tècnica en dietètica i nutrició",
+        "Responsable d'alimentació en empreses de servei d'àpats",
+        "Tècnic en higiene dels aliments",
+        "Consultor en alimentació",
+        "Educador sanitari"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["Ilerna (25002775)-Lleida"]
+        "privats": [
+          "Ilerna (25002775)-Lleida"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1gx4j6mFrq-d8yxQtzA7Jt1BMHVa4_JDs/view?usp=drive_link",
       "cerca": "sanitat salut i atencio a les persones cfps 1651 dietetica tecnica en dietetica i nutricio responsable d alimentacio en empreses de servei d apats tecnic en higiene dels aliments consultor en alimentacio educador sanitari institut torre vicens (25006732) lleida ilerna (25002775) lleida"
@@ -1243,9 +2282,22 @@
       "nivell": "CFPS",
       "codi": "SAD0",
       "nom": "Documentacio i Ad.Sanitàries",
-      "perfils": ["Tècnic en documentació sanitària", "Responsable tècnic de codificació de documentació sanitària", "Responsable tècnic d'arxius d'històries clíniques", "Responsable tècnic de tractament i disseny documental sanitari", "Responsable tècnic de sistemes d'informació assistencial sanitària", "Responsable tècnic d'avaluació i control de qualitat de la prestació sanitària", "Responsable tècnic de gestió de processos administratius clínics", "Responsable d'administració d'unitats, departament o centres sanitaris", "Assistent d'equips de recerca biomèdica", "Secretari de serveis sanitaris"],
+      "perfils": [
+        "Tècnic en documentació sanitària",
+        "Responsable tècnic de codificació de documentació sanitària",
+        "Responsable tècnic d'arxius d'històries clíniques",
+        "Responsable tècnic de tractament i disseny documental sanitari",
+        "Responsable tècnic de sistemes d'informació assistencial sanitària",
+        "Responsable tècnic d'avaluació i control de qualitat de la prestació sanitària",
+        "Responsable tècnic de gestió de processos administratius clínics",
+        "Responsable d'administració d'unitats, departament o centres sanitaris",
+        "Assistent d'equips de recerca biomèdica",
+        "Secretari de serveis sanitaris"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1260,11 +2312,20 @@
       "nivell": "CFPM",
       "codi": "SA30",
       "nom": "Emergències Sanitàries",
-      "perfils": ["Tècnic en transport sanitari", "Tècnic en emergències sanitàries", "Operador de teleassistència o de centres de coordinació d'urgències i emergències"],
+      "perfils": [
+        "Tècnic en transport sanitari",
+        "Tècnic en emergències sanitàries",
+        "Operador de teleassistència o de centres de coordinació d'urgències i emergències"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida", "Institut La Segarra (25005685)-Cervera"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida",
+          "Institut La Segarra (25005685)-Cervera"
+        ],
         "publicsAltres": [],
-        "concertats": ["La Salle (25003184)-Mollerussa"],
+        "concertats": [
+          "La Salle (25003184)-Mollerussa"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1q62Fu9Sg0t2cOR4jQOEaL5SpGyyEBPCT/view?usp=drive_link",
@@ -1277,12 +2338,20 @@
       "nivell": "CFPM",
       "codi": "SA20",
       "nom": "Farmacia i Parafarmacia",
-      "perfils": ["Tècnic auxiliar de farmàcia", "Tècnic de farmàcia o de magatzem de medicaments", "Tècnic en una farmàcia hospitalària o en un establiment de parafarmàcia"],
+      "perfils": [
+        "Tècnic auxiliar de farmàcia",
+        "Tècnic de farmàcia o de magatzem de medicaments",
+        "Tècnic en una farmàcia hospitalària o en un establiment de parafarmàcia"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["Maristes Montserrat 25002313-Lleida"]
+        "privats": [
+          "Maristes Montserrat 25002313-Lleida"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1n_pWiiZ0rFxWDeKcfY5TOJ-tE55KEKfg/view?usp=drive_link",
       "cerca": "sanitat salut i atencio a les persones cfpm sa20 farmacia i parafarmacia tecnic auxiliar de farmacia tecnic de farmacia o de magatzem de medicaments tecnic en una farmacia hospitalaria o en un establiment de parafarmacia institut torre vicens (25006732) lleida maristes montserrat 25002313 lleida"
@@ -1294,9 +2363,17 @@
       "nivell": "CFPS",
       "codi": "SAH0",
       "nom": "Higiene Bucodental",
-      "perfils": ["Tècnic superior en higiene bucodental", "Tècnic especialista higienista dental", "Higienista bucodental", "Educador en salut bucodental"],
+      "perfils": [
+        "Tècnic superior en higiene bucodental",
+        "Tècnic especialista higienista dental",
+        "Higienista bucodental",
+        "Educador en salut bucodental"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida", "Institut La Segarra (25005685)-Cervera"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida",
+          "Institut La Segarra (25005685)-Cervera"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1311,12 +2388,24 @@
       "nivell": "CFPS",
       "codi": "SA10",
       "nom": "Imatge pel diagnòstic i medicina nuclear",
-      "perfils": ["Tècnic superior en imatge per al diagnòstic", "Tècnic especialista en radiodiagnòstic", "Tècnic especialista en medicina nuclear", "Personal tècnic en equips de radioelectrologia mèdica", "Personal tècnic en protecció radiològica", "Personal tècnic en radiologia d'investigació i experimentació", "Delegat comercial de productes hospitalaris i farmacèutics"],
+      "perfils": [
+        "Tècnic superior en imatge per al diagnòstic",
+        "Tècnic especialista en radiodiagnòstic",
+        "Tècnic especialista en medicina nuclear",
+        "Personal tècnic en equips de radioelectrologia mèdica",
+        "Personal tècnic en protecció radiològica",
+        "Personal tècnic en radiologia d'investigació i experimentació",
+        "Delegat comercial de productes hospitalaris i farmacèutics"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["Ilerna (25002775)-Lleida"]
+        "privats": [
+          "Ilerna (25002775)-Lleida"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1eQ9k67QjNS8VUb2LfBqVjJuEvczygbs_/view?usp=drive_link",
       "cerca": "sanitat salut i atencio a les persones cfps sa10 imatge pel diagnostic i medicina nuclear tecnic superior en imatge per al diagnostic tecnic especialista en radiodiagnostic tecnic especialista en medicina nuclear personal tecnic en equips de radioelectrologia medica personal tecnic en proteccio radiologica personal tecnic en radiologia d investigacio i experimentacio delegat comercial de productes hospitalaris i farmaceutics institut torre vicens (25006732) lleida ilerna (25002775) lleida"
@@ -1328,9 +2417,17 @@
       "nivell": "CFPS",
       "codi": "SAE0",
       "nom": "Laboratori quimic i biomèdic",
-      "perfils": ["Tècnic superior en laboratori de diagnòstic clínic", "Tècnic especialista en laboratori", "Ajudant tècnic en laboratori d'investigació i experimentació", "Ajudant tècnic en laboratori de toxicologia", "Delegat comercial de productes hospitalaris i farmacèutics"],
+      "perfils": [
+        "Tècnic superior en laboratori de diagnòstic clínic",
+        "Tècnic especialista en laboratori",
+        "Ajudant tècnic en laboratori d'investigació i experimentació",
+        "Ajudant tècnic en laboratori de toxicologia",
+        "Delegat comercial de productes hospitalaris i farmacèutics"
+      ],
       "centres": {
-        "publics": ["Institut Torre-Vicens (25006732)-Lleida"],
+        "publics": [
+          "Institut Torre-Vicens (25006732)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1345,12 +2442,19 @@
       "nivell": "CFPS",
       "codi": "SMD0",
       "nom": "Prevencio de Riscos professionals",
-      "perfils": ["Tècnics de prevenció de nivell intermedi", "Tècnics intermedis en seguretat i salut en el treball", "Encarregats/es de la coordinació de les activitats preventives", "Coordinadors/es de seguretat i salut a les obres de construcció"],
+      "perfils": [
+        "Tècnics de prevenció de nivell intermedi",
+        "Tècnics intermedis en seguretat i salut en el treball",
+        "Encarregats/es de la coordinació de les activitats preventives",
+        "Coordinadors/es de seguretat i salut a les obres de construcció"
+      ],
       "centres": {
         "publics": [],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["La Salle (25003184) -Mollerussa"]
+        "privats": [
+          "La Salle (25003184) -Mollerussa"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1AUHry_0MLsXnyApDKHgCzvGzQlICbI6K/view?usp=drive_link",
       "cerca": "seguretat i medi ambient energia i sostenibilitat cfps smd0 prevencio de riscos professionals tecnics de prevencio de nivell intermedi tecnics intermedis en seguretat i salut en el treball encarregats es de la coordinacio de les activitats preventives coordinadors es de seguretat i salut a les obres de construccio la salle (25003184) mollerussa"
@@ -1362,9 +2466,22 @@
       "nivell": "CFPS",
       "codi": "SMC0",
       "nom": "Química i Salut Ambiental",
-      "perfils": ["Tècnic en gestió ambiental", "Coordinador de sistemes de gestió ambiental", "Programador d'activitats ambientals", "Documentalista ambiental", "Tècnic control sanitari (aliments, aigües, atmosfera, residus…)", "Tècnic de control de contaminació atmosfèrica", "Tècnic de control de contaminació acústica", "Tècnic de control d'organismes nocius", "Tècnic en control de plagues en el medi urbà i l’entorn natural associat", "Comercial de productes biocides i fitosanitaris"],
+      "perfils": [
+        "Tècnic en gestió ambiental",
+        "Coordinador de sistemes de gestió ambiental",
+        "Programador d'activitats ambientals",
+        "Documentalista ambiental",
+        "Tècnic control sanitari (aliments, aigües, atmosfera, residus…)",
+        "Tècnic de control de contaminació atmosfèrica",
+        "Tècnic de control de contaminació acústica",
+        "Tècnic de control d'organismes nocius",
+        "Tècnic en control de plagues en el medi urbà i l’entorn natural associat",
+        "Comercial de productes biocides i fitosanitaris"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1379,9 +2496,16 @@
       "nivell": "CFPM",
       "codi": "SM40",
       "nom": "Sanitat ambiental aplicada",
-      "perfils": ["Tècnics de prevenció de nivell intermedi", "Tècnics intermedis en seguretat i salut en el treball", "Encarregats/es de la coordinació de les activitats preventives", "Coordinadors/es de seguretat i salut a les obres de construcció"],
+      "perfils": [
+        "Tècnics de prevenció de nivell intermedi",
+        "Tècnics intermedis en seguretat i salut en el treball",
+        "Encarregats/es de la coordinació de les activitats preventives",
+        "Coordinadors/es de seguretat i salut a les obres de construcció"
+      ],
       "centres": {
-        "publics": ["Institut Escola del Treball (25005442)-Lleida"],
+        "publics": [
+          "Institut Escola del Treball (25005442)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1396,10 +2520,23 @@
       "nivell": "CFPS",
       "codi": "SCA0",
       "nom": "Animació Sociocultural i Turistica",
-      "perfils": ["Coordinador i director d'activitats del lleure infantil i juvenil", "Coordinador i director de campaments, d'albergs de joventut, de cases de colònies, de granges escola, d'aules de cases de joventut i d'escoles de natura", "Animador sociocultural", "Dinamitzador comunitari", "Assessor del sector associatiu", "Tècnic comunitari", "Tècnic de serveis culturals", "Tècnic en informació juvenil", "Animador d'hotels, de vetllades i espectacles, o d'activitats recreatives a l'aire lliure en complexos turístics", "Cap de departament d'animació turística"],
+      "perfils": [
+        "Coordinador i director d'activitats del lleure infantil i juvenil",
+        "Coordinador i director de campaments, d'albergs de joventut, de cases de colònies, de granges escola, d'aules de cases de joventut i d'escoles de natura",
+        "Animador sociocultural",
+        "Dinamitzador comunitari",
+        "Assessor del sector associatiu",
+        "Tècnic comunitari",
+        "Tècnic de serveis culturals",
+        "Tècnic en informació juvenil",
+        "Animador d'hotels, de vetllades i espectacles, o d'activitats recreatives a l'aire lliure en complexos turístics",
+        "Cap de departament d'animació turística"
+      ],
       "centres": {
-        "publics": [],
-        "publicsAltres": ["INS Ronda (25006771)-Lleida"],
+        "publics": [
+          "INS Ronda (25006771)-Lleida"
+        ],
+        "publicsAltres": [],
         "concertats": [],
         "privats": []
       },
@@ -1413,11 +2550,30 @@
       "nivell": "CFPM",
       "codi": "SC10",
       "nom": "Atenció a persones en situació de dependència",
-      "perfils": ["Assistent de persones en situació de dependència en institucions i/o domicilis", "Governant i subgovernant de persones en situació de dependència en institucions", "Auxiliar responsable de planta de residències de persones grans i persones amb discapacitat", "Auxiliar d'ajuda a domicili", "Assistent d'atenció domiciliària", "Treballador familiar", "Auxiliar d'educació especial", "Assistent personal", "Teleoperador de teleassistència"],
+      "perfils": [
+        "Assistent de persones en situació de dependència en institucions i/o domicilis",
+        "Governant i subgovernant de persones en situació de dependència en institucions",
+        "Auxiliar responsable de planta de residències de persones grans i persones amb discapacitat",
+        "Auxiliar d'ajuda a domicili",
+        "Assistent d'atenció domiciliària",
+        "Treballador familiar",
+        "Auxiliar d'educació especial",
+        "Assistent personal",
+        "Teleoperador de teleassistència"
+      ],
       "centres": {
-        "publics": ["Institut Almatà (25005727)-Balaguer", "Institut La Segarra (25005685)-Cervera", "Institut Ronda (25006771)-Lleida", "Institut Mollerussa (25003202)-Mollerussa", "Institut Josep Vallverdú (25006525)-Les Borges Blanques"],
+        "publics": [
+          "Institut Almatà (25005727)-Balaguer",
+          "Institut La Segarra (25005685)-Cervera",
+          "Institut Ronda (25006771)-Lleida",
+          "Institut Mollerussa (25003202)-Mollerussa",
+          "Institut Josep Vallverdú (25006525)-Les Borges Blanques"
+        ],
         "publicsAltres": [],
-        "concertats": ["Episcopal (25002647)-Lleida", "Vedruna Tàrrega (25004486)-Tàrrega"],
+        "concertats": [
+          "Episcopal (25002647)-Lleida",
+          "Vedruna Tàrrega (25004486)-Tàrrega"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1-WNuFW5bbfRGvx_yw4xp4C1bE2eoR6WJ/view?usp=drive_link",
@@ -1430,12 +2586,23 @@
       "nivell": "CFPS",
       "codi": "SCB0",
       "nom": "Educació Infantil",
-      "perfils": ["Educador infantil en el primer cicle d'educació infantil, sota la supervisió d'un mestre o una mestra", "Educador en institucions i/o en programes específics de treball amb infants de 0 a 6 anys en situació de risc social", "Educador en programes o activitats d'oci i temps lliure infantil: ludoteques, cases de cultura, biblioteques, centres educatius, etc."],
+      "perfils": [
+        "Educador infantil en el primer cicle d'educació infantil, sota la supervisió d'un mestre o una mestra",
+        "Educador en institucions i/o en programes específics de treball amb infants de 0 a 6 anys en situació de risc social",
+        "Educador en programes o activitats d'oci i temps lliure infantil: ludoteques, cases de cultura, biblioteques, centres educatius, etc."
+      ],
       "centres": {
-        "publics": ["INS Ronda (25006771)-Lleida", "INS Mollerussa (25003202)-Mollerussa"],
+        "publics": [
+          "INS Ronda (25006771)-Lleida",
+          "INS Mollerussa (25003202)-Mollerussa"
+        ],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["Episcopal (25002647)-Lleida", "AC. Martínez (25002751)-Lleida", "Ilerna (25002775)-Lleida"]
+        "privats": [
+          "Episcopal (25002647)-Lleida",
+          "AC. Martínez (25002751)-Lleida",
+          "Ilerna (25002775)-Lleida"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1fYX0_Wc2OhqEzWQntu8rO39_SztM9GiL/view?usp=drive_link",
       "cerca": "serveis socioculturals i a la comunitat salut i atencio a les persones cfps scb0 educacio infantil educador infantil en el primer cicle d educacio infantil sota la supervisio d un mestre o una mestra educador en institucions i o en programes especifics de treball amb infants de 0 a 6 anys en situacio de risc social educador en programes o activitats d oci i temps lliure infantil ludoteques cases de cultura biblioteques centres educatius etc ins ronda (25006771) lleida ins mollerussa (25003202) mollerussa episcopal (25002647) lleida ac martinez (25002751) lleida ilerna (25002775) lleida"
@@ -1447,11 +2614,31 @@
       "nivell": "CFPS",
       "codi": "SCC0",
       "nom": "Integracio Social",
-      "perfils": ["Tècnic/a de programes de prevenció i inserció social", "Educador/a d'equipaments residencials de tipus diversos", "Treballador/a familiar", "Auxiliar de tutela", "Tècnic/a d'integració social", "Educador/a d'educació especial", "Monitor/a de persones amb discapacitat", "Tècnic/a de mobilitat bàsica", "Mediador/a ocupacional i/o laboral", "Mediador/a comunitari/ària", "Mediador/a intercultural", "Tècnic/a en ocupació amb suport", "Tècnic/a d'acompanyament laboral", "Monitor/a de rehabilitació psicosocial"],
+      "perfils": [
+        "Tècnic/a de programes de prevenció i inserció social",
+        "Educador/a d'equipaments residencials de tipus diversos",
+        "Treballador/a familiar",
+        "Auxiliar de tutela",
+        "Tècnic/a d'integració social",
+        "Educador/a d'educació especial",
+        "Monitor/a de persones amb discapacitat",
+        "Tècnic/a de mobilitat bàsica",
+        "Mediador/a ocupacional i/o laboral",
+        "Mediador/a comunitari/ària",
+        "Mediador/a intercultural",
+        "Tècnic/a en ocupació amb suport",
+        "Tècnic/a d'acompanyament laboral",
+        "Monitor/a de rehabilitació psicosocial"
+      ],
       "centres": {
-        "publics": ["INS Ronda (25006771)-Lleida"],
+        "publics": [
+          "INS Ronda (25006771)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["Episcopal (25002647)-Lleida", "Ilerna (25002775)-Lleida"],
+        "concertats": [
+          "Episcopal (25002647)-Lleida",
+          "Ilerna (25002775)-Lleida"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1NPqaSBpSx3FXdFLofykvA3PWgeKSXrbA/view?usp=drive_link",
@@ -1464,9 +2651,21 @@
       "nivell": "CFPS",
       "codi": "SCE0",
       "nom": "Mediacio comunicativa",
-      "perfils": ["Agent de desenvolupament de la comunitat sorda", "Tècnic en promoció, atenció i formació a persones sordes", "Agent dinamitzador de la comunitat sorda", "Mediador social de la comunitat sorda", "Agent de desenvolupament de la comunitat sordcega", "Agent dinamitzador de la comunitat sordcega", "Mediador o mediadora de persones sordcegues", "Assistent de persones sordcegues", "Mediador de persones amb dificultats de comunicació"],
+      "perfils": [
+        "Agent de desenvolupament de la comunitat sorda",
+        "Tècnic en promoció, atenció i formació a persones sordes",
+        "Agent dinamitzador de la comunitat sorda",
+        "Mediador social de la comunitat sorda",
+        "Agent de desenvolupament de la comunitat sordcega",
+        "Agent dinamitzador de la comunitat sordcega",
+        "Mediador o mediadora de persones sordcegues",
+        "Assistent de persones sordcegues",
+        "Mediador de persones amb dificultats de comunicació"
+      ],
       "centres": {
-        "publics": ["INS Ronda (25006771)-Lleida"],
+        "publics": [
+          "INS Ronda (25006771)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1481,10 +2680,15 @@
       "nivell": "CFPS",
       "codi": "SCD0",
       "nom": "Promocio i igualtat de gènere",
-      "perfils": ["Promotor o promotora per a la igualtat efectiva de dones i homes", "Tècnic o tècnica de suport en matèria d'igualtat efectiva de dones i homes"],
+      "perfils": [
+        "Promotor o promotora per a la igualtat efectiva de dones i homes",
+        "Tècnic o tècnica de suport en matèria d'igualtat efectiva de dones i homes"
+      ],
       "centres": {
-        "publics": [],
-        "publicsAltres": ["INS Ronda (25006771)-Lleida"],
+        "publics": [
+          "INS Ronda (25006771)-Lleida"
+        ],
+        "publicsAltres": [],
         "concertats": [],
         "privats": []
       },
@@ -1498,9 +2702,18 @@
       "nivell": "CFPM",
       "codi": "TX50",
       "nom": "Confeccio i Moda",
-      "perfils": ["Tècnic en confecció industrial de peces i complements de vestir i articles tèxtils", "Tècnic tallador i cosidor de peces de vestir i articles tèxtils i de pell", "Brodador a màquina", "Planxador", "Acabador", "Tècnic en confecció a mida"],
+      "perfils": [
+        "Tècnic en confecció industrial de peces i complements de vestir i articles tèxtils",
+        "Tècnic tallador i cosidor de peces de vestir i articles tèxtils i de pell",
+        "Brodador a màquina",
+        "Planxador",
+        "Acabador",
+        "Tècnic en confecció a mida"
+      ],
       "centres": {
-        "publics": ["Institut Guindàvols (25002726)-Lleida"],
+        "publics": [
+          "Institut Guindàvols (25002726)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1515,9 +2728,19 @@
       "nivell": "CFPS",
       "codi": "TXE0",
       "nom": "Patronatge i Moda",
-      "perfils": ["Tècnic responsable en mostrari", "Tècnic en confecció de prototips", "Tècnic en confecció industrial", "Tècnic en fabricació d'articles de pell i de cuir", "Tècnic en organització de la producció", "Dissenyador tècnic o dissenyadora tècnica de patronatge i confecció amb disseny i producció assistits per ordinador (CAD / CAM)", "Tècnic de desenvolupament de productes de confecció (I+D+i)"],
+      "perfils": [
+        "Tècnic responsable en mostrari",
+        "Tècnic en confecció de prototips",
+        "Tècnic en confecció industrial",
+        "Tècnic en fabricació d'articles de pell i de cuir",
+        "Tècnic en organització de la producció",
+        "Dissenyador tècnic o dissenyadora tècnica de patronatge i confecció amb disseny i producció assistits per ordinador (CAD / CAM)",
+        "Tècnic de desenvolupament de productes de confecció (I+D+i)"
+      ],
       "centres": {
-        "publics": ["Institut Guindàvols (25002726)-Lleida"],
+        "publics": [
+          "Institut Guindàvols (25002726)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1532,12 +2755,24 @@
       "nivell": "CFPS",
       "codi": "TMA0",
       "nom": "Automoció",
-      "perfils": ["Encarregat de taller o de seccions", "Taxador de vehicles", "Mecànic de vehicles industrials", "Encarregat de taller o de seccions de vehicles industrials", "Tècnic receptor i reparador de vehicles"],
+      "perfils": [
+        "Encarregat de taller o de seccions",
+        "Taxador de vehicles",
+        "Mecànic de vehicles industrials",
+        "Encarregat de taller o de seccions de vehicles industrials",
+        "Tècnic receptor i reparador de vehicles"
+      ],
       "centres": {
-        "publics": ["Institut La Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut La Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["La Salle (25003184)-Mollerussa"],
-        "privats": ["CTI (25009393)"]
+        "concertats": [
+          "La Salle (25003184)-Mollerussa"
+        ],
+        "privats": [
+          "CTI (25009393)"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/14I8x4IBRI06bTZSU-r1ViKJdPgPADo6_/view?usp=drive_link",
       "cerca": "transport i manteniment de vehicles metall i mobilitat cfps tma0 automocio encarregat de taller o de seccions taxador de vehicles mecanic de vehicles industrials encarregat de taller o de seccions de vehicles industrials tecnic receptor i reparador de vehicles institut la caparrella (25002799) lleida la salle (25003184) mollerussa cti (25009393)"
@@ -1549,11 +2784,21 @@
       "nivell": "CFPM",
       "codi": "TM20",
       "nom": "Carrosseria",
-      "perfils": ["Planxista", "Reparador o reparadora de carrosseries de vehicles", "Instal·lador o instal·ladora de vidres", "Muntador o muntadora d’accessoris", "Pintor o pintora de carrosseries de vehicles"],
+      "perfils": [
+        "Planxista",
+        "Reparador o reparadora de carrosseries de vehicles",
+        "Instal·lador o instal·ladora de vidres",
+        "Muntador o muntadora d’accessoris",
+        "Pintor o pintora de carrosseries de vehicles"
+      ],
       "centres": {
-        "publics": ["Institut La Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut La Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["La Salle (25003184)-Mollerussa"],
+        "concertats": [
+          "La Salle (25003184)-Mollerussa"
+        ],
         "privats": []
       },
       "planUrl": "https://drive.google.com/file/d/1Nd_WMbi2WYmNv-iNKAQpgecXyF6z2oSD/view?usp=drive_link",
@@ -1566,12 +2811,38 @@
       "nivell": "CFPS",
       "codi": "TM50",
       "nom": "Conducció de vehicles de transport per carretera",
-      "perfils": ["Conductor de camió de mercaderies perilloses", "Conductor de camió amb remolc i/o de tracto camió", "Conductor de cisternes", "Conductor de vehicle frigorífic", "Conductor de portavehicles", "Conductor de formigonera", "Conductor de vehicle basculant", "Conductor de vehicles autobolquet (Dúmper)", "Conductor o conductora de camió T.I.R. (Transport Internacional)", "Conductor de vehicles grua d'auxili en carretera", "Conductor de vehicles especials", "Conductor de vehicles de transport d'animals vius", "Conductor o conductora de vehicles destinats a transport de viatgers per carretera", "Conductor d'autobús urbà", "Conductor d'autobús interurbà", "Conductor d'autobús internacional", "Conductor d'autobús escolar", "Conductor de taxi", "Conductor professional d'automòbil", "Conductor professional de vehicle de transport de passatgers de fins a nou places", "Conductor de furgoneta fins a 3.500 quilos"],
+      "perfils": [
+        "Conductor de camió de mercaderies perilloses",
+        "Conductor de camió amb remolc i/o de tracto camió",
+        "Conductor de cisternes",
+        "Conductor de vehicle frigorífic",
+        "Conductor de portavehicles",
+        "Conductor de formigonera",
+        "Conductor de vehicle basculant",
+        "Conductor de vehicles autobolquet (Dúmper)",
+        "Conductor o conductora de camió T.I.R. (Transport Internacional)",
+        "Conductor de vehicles grua d'auxili en carretera",
+        "Conductor de vehicles especials",
+        "Conductor de vehicles de transport d'animals vius",
+        "Conductor o conductora de vehicles destinats a transport de viatgers per carretera",
+        "Conductor d'autobús urbà",
+        "Conductor d'autobús interurbà",
+        "Conductor d'autobús internacional",
+        "Conductor d'autobús escolar",
+        "Conductor de taxi",
+        "Conductor professional d'automòbil",
+        "Conductor professional de vehicle de transport de passatgers de fins a nou places",
+        "Conductor de furgoneta fins a 3.500 quilos"
+      ],
       "centres": {
-        "publics": ["Institut La Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut La Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
-        "privats": ["CTI 25009393"]
+        "privats": [
+          "CTI 25009393"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/177Ude4sXOH_qFJSMEJKd38O1b3covXnY/view?usp=drive_link",
       "cerca": "transport i manteniment de vehicles metall i mobilitat cfps tm50 conduccio de vehicles de transport per carretera conductor de camio de mercaderies perilloses conductor de camio amb remolc i o de tracto camio conductor de cisternes conductor de vehicle frigorific conductor de portavehicles conductor de formigonera conductor de vehicle basculant conductor de vehicles autobolquet (dumper) conductor o conductora de camio t i r (transport internacional) conductor de vehicles grua d auxili en carretera conductor de vehicles especials conductor de vehicles de transport d animals vius conductor o conductora de vehicles destinats a transport de viatgers per carretera conductor d autobus urba conductor d autobus interurba conductor d autobus internacional conductor d autobus escolar conductor de taxi conductor professional d automobil conductor professional de vehicle de transport de passatgers de fins a nou places conductor de furgoneta fins a 3 500 quilos institut la caparrella (25002799) lleida cti 25009393"
@@ -1583,9 +2854,22 @@
       "nivell": "CFPM",
       "codi": "TM30",
       "nom": "Electromecànica de maquinària",
-      "perfils": ["Electromecànic de maquinària agrícola", "Electromecànic de màquines d'indústries extractives", "Electromecànic de màquines d'edificació i obra civil", "Electromecànic i ajustador d'equips d'injecció dièsel", "Verificador de maquinària agrícola i industrial", "Reparador de sistemes pneumàtics i hidràulics", "Reparador de sistemes de transmissió i frens", "Reparador de sistemes de direcció i suspensió", "Instal·lador d'accessoris", "Venedor i distribuïdor de recanvis i equips de diagnosi"],
+      "perfils": [
+        "Electromecànic de maquinària agrícola",
+        "Electromecànic de màquines d'indústries extractives",
+        "Electromecànic de màquines d'edificació i obra civil",
+        "Electromecànic i ajustador d'equips d'injecció dièsel",
+        "Verificador de maquinària agrícola i industrial",
+        "Reparador de sistemes pneumàtics i hidràulics",
+        "Reparador de sistemes de transmissió i frens",
+        "Reparador de sistemes de direcció i suspensió",
+        "Instal·lador d'accessoris",
+        "Venedor i distribuïdor de recanvis i equips de diagnosi"
+      ],
       "centres": {
-        "publics": ["Institut Mollerussa (25003202)-Lleida"],
+        "publics": [
+          "Institut Mollerussa (25003202)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1600,9 +2884,15 @@
       "nivell": "CFPM",
       "codi": "TM12",
       "nom": "Electromecànica de Vehicles Automòbils, perfil professional d'Electromecànica de Vehicles Industrials",
-      "perfils": ["La reparació d'automòbils: mecànica i electricitat", "La reparació de maquinària agrícola i obres públiques (mecànica i electricitat, equips, arreus i transformacions opcionals)", "Altres sectors productius on es facin feines de manteniment electromecànic de motors tèrmics de cicle OTTO i dièsel (manteniment dels motors dels grups electrògens)"],
+      "perfils": [
+        "La reparació d'automòbils: mecànica i electricitat",
+        "La reparació de maquinària agrícola i obres públiques (mecànica i electricitat, equips, arreus i transformacions opcionals)",
+        "Altres sectors productius on es facin feines de manteniment electromecànic de motors tèrmics de cicle OTTO i dièsel (manteniment dels motors dels grups electrògens)"
+      ],
       "centres": {
-        "publics": ["Institut Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
         "concertats": [],
         "privats": []
@@ -1617,12 +2907,28 @@
       "nivell": "CFPM",
       "codi": "TM10",
       "nom": "Electromecànica de vehicles d'automocio",
-      "perfils": ["Reparador de sistemes pneumàtics i hidràulics", "Reparador de sistemes de transmissió i frens", "Reparador de sistemes de direcció i suspensió", "Operari d'ITV", "Instal·lador d'accessoris a vehicles", "Operari d'empreses dedicades a la fabricació de recanvis", "Electromecànic de motocicletes", "Venedor o venedora, distribuïdor o distribuïdora de recanvis i d'equips de diagnosi"],
+      "perfils": [
+        "Reparador de sistemes pneumàtics i hidràulics",
+        "Reparador de sistemes de transmissió i frens",
+        "Reparador de sistemes de direcció i suspensió",
+        "Operari d'ITV",
+        "Instal·lador d'accessoris a vehicles",
+        "Operari d'empreses dedicades a la fabricació de recanvis",
+        "Electromecànic de motocicletes",
+        "Venedor o venedora, distribuïdor o distribuïdora de recanvis i d'equips de diagnosi"
+      ],
       "centres": {
-        "publics": ["Institut La Segarra (25005685)-Cervera", "Institut La Caparrella (25002799)-Lleida"],
+        "publics": [
+          "Institut La Segarra (25005685)-Cervera",
+          "Institut La Caparrella (25002799)-Lleida"
+        ],
         "publicsAltres": [],
-        "concertats": ["La Salle (25003184)-Mollerussa"],
-        "privats": ["CTI (25009393)"]
+        "concertats": [
+          "La Salle (25003184)-Mollerussa"
+        ],
+        "privats": [
+          "CTI (25009393)"
+        ]
       },
       "planUrl": "https://drive.google.com/file/d/1OI4l2dp9G-oK3Tm739NqfXSQrM6aBuXx/view?usp=drive_link",
       "cerca": "transport i manteniment de vehicles metall i mobilitat cfpm tm10 electromecanica de vehicles d automocio reparador de sistemes pneumatics i hidraulics reparador de sistemes de transmissio i frens reparador de sistemes de direccio i suspensio operari d itv instal lador d accessoris a vehicles operari d empreses dedicades a la fabricacio de recanvis electromecanic de motocicletes venedor o venedora distribuidor o distribuidora de recanvis i d equips de diagnosi institut la segarra (25005685) cervera institut la caparrella (25002799) lleida la salle (25003184) mollerussa cti (25009393)"
